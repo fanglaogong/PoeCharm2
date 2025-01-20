@@ -10,5 +10,11 @@
         "description": "中文(繁體)",
         "value": "zh-rTW",
         "path": "Data/Translate/zh-rTW"
+    },
+    {
+        "name": "Korean",
+        "description": "Korean",
+        "value": "ko-KR",
+        "path": "Data/Translate/ko-KR"
     }
 ]

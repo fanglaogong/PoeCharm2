@@ -10,7 +10,7 @@ Chaining,연쇄의
 Channelling,"집중 유지"
 Chaos,카오스
 Cold,냉기
-Critical,치명타
+Critical,[Critical|치명타]
 Curse,저주
 Duration,지속시간
 Exceptional,특출난
@@ -42,3 +42,7 @@ Trigger,발동
 Vaal,바알
 Warcry,함성
 Retaliation,보복
+Crossbow,석궁
+Shapeshift,"형태 변환"
+Bear,곰
+Wolf,늑대
