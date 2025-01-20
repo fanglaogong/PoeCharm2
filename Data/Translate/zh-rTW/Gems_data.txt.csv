@@ -32,7 +32,7 @@ Barrage,彈幕
 "Barrel Explosion",火力爆裂
 "Battlemage's Cry",戰法戰吼
 "Bear Trap",捕熊陷阱
-Berserk,狂戰
+Berserk,狂戰士
 "Blade Blast",劍刃爆破
 "Blade Flurry",刀鋒亂舞
 "Blade Trap",刀鋒陷阱
@@ -130,7 +130,7 @@ Dash,幻步
 Desecrate,褻瀆
 Despair,絕望
 "Destructive Link",連結：破壞
-Determination,瓦爾．堅定
+Determination,堅定
 "Detonate Dead",屍體爆破
 "Detonate Mines",引爆地雷
 "Devouring Totem",吞噬圖騰
@@ -214,7 +214,7 @@ Focus,專注
 "Forbidden Rite",禁忌儀式
 "Freeze Mine",冰凍地雷
 "Freezing Pulse",冰霜脈衝
-Frenzy,狂怒球
+Frenzy,狂怒
 "Frost Blades",冰霜之刃
 "Frost Bolt Channel",持續施法寒冰彈
 "Frost Bomb",寒霜爆
@@ -263,7 +263,7 @@ Ignite,點燃
 "Illusory Warp",幻影傳送
 "Immortal Call",不朽怒嚎
 "Inca Boss Freezing Pulse",印加頭目急凍波
-Incinerate,燒毀
+Incinerate,燃火燒盡
 "Increased Damage Taken Aura",增加受到傷害光環
 "Infernal Blow",煉獄之擊
 "Infernal Cry",煉獄戰吼
@@ -279,8 +279,8 @@ Lacerate,破空斬
 "Leap Slam",躍擊
 "Lightning Aegis",閃電聖盾
 "Lightning Arrow",閃電箭矢
-"Lightning Bolt",雷擊
-"Lightning Clone Retaliation",閃電複製體復仇
+"Lightning Bolt",雷彈
+"Lightning Clone Retaliation",閃電複製體反擊
 "Lightning Conduit",導雷
 "Lightning Spire Trap",鋒雷陷阱
 "Lightning Strike",閃電打擊
@@ -361,7 +361,7 @@ Riptide,激流
 "Shock Ground",感電地面
 "Shock Nova",閃電新星
 Shockwave,衝擊波
-"Shockwave Totem",震波圖騰
+"Shockwave Totem",圖騰：震波
 "Shrapnel Ballista",彈片砲塔
 "Siege Ballista",攻城炮台
 "Sigil of Power",咒符之力
@@ -439,7 +439,7 @@ Taunt,嘲諷
 "Tawhoa's Chosen",塔赫亞的抉擇
 "Tectonic Slam",破體之擊
 "Tempest Shield",暴風之盾
-"Temporal Chains",時空鎖鍊
+"Temporal Chains",時空鎖鏈
 "Temporal Rift",時空裂隙
 "Tentacle Whip",觸手鞭擊
 "Thirst for Blood",嗜血
@@ -451,7 +451,7 @@ Tornado,龍捲風
 "Touch Of God",天譴之拳
 "Toxic Rain",腐蝕毒雨
 Twister,旋風
-Unearth,屍術矢
+Unearth,破墳術
 Unhinge,錯亂
 Unnamed2,未命名
 "Unseen Strike",隱匿突擊
@@ -518,10 +518,10 @@ Vitality,活力
 "Volatile Dead",致命之息
 "Volcanic Fissure",炎火脈動
 "Voltaxic Burst",魔痕爆發
-Vortex,漩渦
+Vortex,旋渦
 Vulnerability,脆弱
 "Wand Teleport",傳送法杖
-"War Banner",戰爭之旗
+"War Banner",征戰之旗
 "Warlord's Mark",督軍印記
 "Wave of Conviction",信念浪湧
 "Whirling Blades",迴旋之刃
@@ -795,8 +795,8 @@ Eviscerate,剔骨
 "Glacial Shield Swipe",冰川盾擊
 "Jet of Flame",烈焰噴射
 "Puncture of Shanking",腿脛放血
-"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的形象
-"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的形象
+"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的幻影
+"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的幻影
 "Summon Demon Beast",召喚惡魔野獸
 "Summon Demon Harpy",召喚惡魔鷹身
 "Summon Demon Imp",召喚惡魔小鬼
@@ -808,3 +808,248 @@ Eviscerate,剔骨
 Swordstorm,劍刃風暴
 "Unbound Avatar",無縛化身
 "Vengeful Cry",復仇之嚎
+"Alchemist's Boon",煉金師恩惠
+"Ancestral Cry Mortar",先祖戰吼迫擊砲
+"Ancestral Spirits",先祖之魂
+"Ancestral Warrior Totem",先祖戰士圖騰
+Archmage,大法師
+"Armour Breaker",護甲碎擊
+"Armour Piercing Rounds",穿甲彈藥
+"Artillery Shot",圍城爆發
+Attrition,損耗
+"Axe Slash",斧鉞斬
+"Barrier Invocation",屏障祈願
+"Basic Attack",基礎攻擊
+"Basic Bolt",基礎弩箭
+"Bind Spectre",束縛幽魂
+Blasphemy,詛咒光環
+"Blazing Lance",熾烈之槍
+"Bleeding Concoction",流血混合物
+Blink,閃現
+"Bone Blast",骨之爆破
+"Bone Cage",骨牢
+"Bone Explosion",骸骨爆炸
+Bonebreaker,裂骨者
+Bonestorm,骸骨風暴
+"Bow Shot",弓箭射擊
+"Burning Inscription",爆燃銘文
+BurningNova,燃燒新星
+"Burst Shot",爆發射擊
+"Cast on Block",格擋時施放
+"Cast on Critical",暴擊時施放
+"Cast on Death",死亡時施放
+"Cast on Dodge",閃避時施放
+"Cast on Freeze",冰凍時施放
+"Cast on Ignite",點燃時施放
+"Cast on Melee Kill",近戰擊殺時施放
+"Cast on Melee Stun",近戰擊暈時施放
+"Cast on Minion Death",召喚物死亡時施放
+"Cast on Shock",電擊時施放
+"Cast when Damage Taken",受傷時施放
+"Cast when Stunned",暈眩時施放
+"Cast while Channelling",引導時施放
+"Chaos Bolt",混沌弩箭
+"Charge Infusion",充能灌注
+"Charged Shockwave",充能震波
+"Charged Staff",充能長杖
+"Claw Stab",利爪刺擊
+"Cluster Grenade",集束擲彈
+"Combat Frenzy",戰鬥狂怒
+Comet,彗星
+"Command: {0} ","命令：{0} "
+"Consume Corpse",噬屍
+"Crossbow Shot",十字弓射擊
+"Crystal Explosion",水晶爆炸
+"Dagger Stab",匕首刺擊
+"Dark Effigy",黑暗雕像
+"Death Storm",死寂風暴
+Decompose,分解
+"Demon Form",惡魔變身
+"Detonating Arrow",爆破箭矢
+"Direct Minions",直接召喚物
+"Electrocuting Arrow",電極箭矢
+"Elemental Conflux",元素匯流
+"Elemental Discharge",元素解放
+"Elemental Expression",元素表現
+"Elemental Invocation",元素祈願
+"Elemental Storm",元素風暴
+"Ember Fusillade",餘燼齊射
+"Emergency Reload",緊急裝填
+"Encase in Jade",包覆於翠玉中
+Enrage,激怒
+"Escape Shot",逃脫之矢
+"Explosive Demise",爆炸之亡
+"Explosive Grenade",爆炸擲彈
+"Explosive Shot",爆炸矢
+"Falling Thunder",崩雷鳴
+"Ferocious Roar",兇猛怒吼
+"Fiery Death",火熱死寂
+"Fire Bomb",火焰炸彈
+Firebolt,火彈
+"Flail Strike",鏈錘打擊
+"Flash Grenade",閃光擲彈
+"Fragmentation Rounds",分裂彈藥
+"Freezing Explosion",冷凍爆炸
+"Freezing Mark",冰凍印記
+"Freezing Nova",冰凍新星
+"Freezing Salvo",凍結齊射
+"Freezing Shards",冰凍裂片
+"Freezing Word",冰凍之語
+"Frozen Locus",寒冰蝗蟲
+"Fulminating Concoction",烈性混合物
+"Furious Slam",狂暴重擊
+"Gale Force",颶風之力
+"Galvanic Shards",電能碎片
+"Gas Arrow",毒氣箭矢
+"Gas Grenade",毒氣擲彈
+"Gathering Storm",風暴凝聚
+Generosity,和善
+"Ghost Dance",鬼魂之舞
+"Glacial Bolt",冰川弩箭
+"Greater Lightning Bolt",雷彈
+"Grim Feast",冷酷之宴
+"Hailstorm Rounds",冰雹彈藥
+"Hammer of the Gods",眾神之錘
+"Hand of Chayula",夏烏拉之手
+"Herald of Plague",瘟疫之捷
+"High Velocity Rounds",高速彈藥
+"Hydra Familiar",九頭蛇近親
+Hypothermia,凍傷
+"Ice Bomb",寒冰炸彈
+"Ice Shard",寒冰碎片
+"Ice Shards",寒冰碎片
+"Ice Strike",冰之打擊
+Impale,穿刺
+"Incendiary Shot",烈焰射擊
+"Incendiary Siege Cascade",烈焰圍城爆發
+"Incendiary Siege Cascade Ammo",烈焰圍城爆發彈藥
+"Into the Breach",遁入裂痕
+"Killing Palm",摧命之掌
+"Life Remnants",生命痕跡
+"Lightning Rod",雷霆之杖
+"Lightning Storm",閃電風暴
+"Lingering Illusion",殘留幻象
+"Living Bomb",活體炸彈
+"Load Armour Piercing Rounds",裝填穿甲彈藥
+"Load Explosive Shot",裝填爆炸矢
+"Load Fragmentation Rounds",裝填分裂彈藥
+"Load Galvanic Shards",裝填電能碎片
+"Load Glacial Bolt",裝填冰川弩箭
+"Load Hailstorm Rounds",裝填冰雹彈藥
+"Load High Velocity Rounds",裝填高速彈藥
+"Load Ice Shards",裝填寒冰碎片
+"Load Incendiary Shot",裝填烈焰矢
+"Load Permafrost Bolts",裝填永凍弩箭
+"Load Plasma Blast",電漿強擊矢彈藥
+"Load Rapid Shot",裝填疾射
+"Load Shockburst Rounds",裝填震爆彈藥
+"Load Siege Cascade",裝填圍城爆發
+"Load Stormblast Bolts",裝填雷暴彈藥
+"Mace Strike",錘之打擊
+"Magma Barrier",熔岩屏障
+"Magma Spray",岩漿噴濺
+"Magnetic Salvo",電磁齊射
+Malice,絕滅恨惡
+"Mana Drain",魔力吸取
+"Mana Flare",魔力閃焰
+"Mana Remnants",魔力痕跡
+"Mana Tempest",魔力暴風
+"Manifest Dancing Dervish",幻化狂舞德爾維希
+"Mantra of Destruction",毀滅神咒
+Maul,重錘
+Meditate,冥想
+"Molten Blast",熔火爆破
+"Oil Grenade",燃油擲彈
+"Overwhelming Presence",壓倒性的存在
+"Pain Offering",劇痛獻祭
+"Perfect Strike",完美打擊
+"Permafrost Bolts",永凍弩箭
+"Plague Burst",疫源爆發
+"Plague Nova",疫源新星
+"Plasma Blast",電漿強擊矢
+"Poisonburst Arrow",毒爆箭矢
+"Power Shot",強擊矢
+"Profane Ritual",瀆神祭祀
+Punch,正拳
+"Quarterstaff Strike",細杖打擊
+"Raging Spirits",怒炎之靈
+"Raise Shield",展開護盾
+Rampage,暴怒
+"Rapid Assault",極速進攻
+"Rapid Shot",疾射
+"Reaper's Invocation",收割者的祈願
+"Resonating Shield",共鳴之盾
+"Resonating Slam",共鳴重擊
+"Revive Skeleton",復甦骷髏
+"Ripwire Ballista",撕裂砲塔
+"Ripwire Bolt",撕裂弩箭
+"Rolling Slam",翻騰重擊
+Sacrifice,獻祭
+"Scavenged Plating",拾荒者護板
+"Shard Scavenger",碎片清除者
+"Shattering Concoction",粉碎混合物
+"Shattering Palm",粉碎之掌
+"Shield Wall",盾牆
+"Shockburst Rounds",震爆彈藥
+"Shockchain Arrow",電鍊箭矢
+"Shockwave Slam",震波重擊
+"Siege Cascade",圍城爆發
+"Siphoning Strike",虹吸打擊
+"Skeletal Arsonist Minion",骷髏縱火者召喚物
+"Skeletal Brute Minion",骷髏巨獸召喚物
+"Skeletal Cleric Minion",骷髏牧師召喚物
+"Skeletal Frost Mage Minion",骷髏霜寒法師召喚物
+"Skeletal Reaver Minion",骷髏掠奪者召喚物
+"Skeletal Sniper Minion",骷髏狙擊手召喚物
+"Skeletal Storm Mage Minion",骷髏風暴法師召喚物
+"Skeletal Warrior Minion",骷髏戰士召喚物
+"Solar Orb",日耀球
+"Sorcery Ward",巫術護盾
+"Soul Offering",靈魂獻祭
+Soulbreaker,破魂者
+"Spear Stab",長鋒刺擊
+Spearfield,長鋒之錐
+"Spectre: {0} ",幽魂：{0}
+"Spinning Inferno",旋轉獄火
+"Spiral Volley",螺旋之弦
+"Staggering Palm",撼敵之掌
+Stampede,踐踏
+"Stomping Ground Shockwave",重踏地面震波
+"Storm Spear",風暴長鋒
+"Storm Surge",風暴洶湧
+"Storm Wave",風暴浪湧
+"Stormblast Bolts",雷暴彈藥
+"Stormcaller Arrow",風暴呼喚箭矢
+"Summon Ballista Totem",召喚砲塔圖騰
+"Summon Companion",召喚盟友
+"Summon Demon Magus",召喚惡魔瑪格思
+"Summon Infernal Hound",召喚獄炎獵犬
+"Summon Rhoa Mount",召喚恐喙鳥座騎
+"Summon Spell Totem",召喚之術圖騰
+"Summon Wolf",召喚狼
+"Supercharged Slam",超載重擊
+"Sword Slash",劍刃斬
+"Tempest Bell",風暴之鐘
+"Tempest Flurry",暴風亂舞
+"Time Freeze",時間凍結
+"Time of Need",緊急時刻
+"Time Snap",時間短縮
+"Toxic Growth",毒素植栽
+Unleash,釋放
+"Vaulting Impact",跳躍衝擊
+"Vile Effusion",惡劣凝聚
+"Vine Arrow",藤蔓箭矢
+Volcano,火山
+"Voltaic Grenade",電流擲彈
+"Voltaic Mark",電流印記
+"Voltaic Nova",電流新星
+"Wave of Frost",寒冰波
+"Whirling Assault",迴旋擊
+"Whirling Slash",迴旋斬
+"Whirlwind Spear",旋風長鋒
+"Wind Blast",破風爆裂
+"Wind Blast (Quarterstaff)",破風爆裂（細杖）
+"Wind Blast (Unarmed)",破風爆裂（空手）
+"Wind Dancer",疾風之舞
+"Wind Wave",疾風之波
+"Withering Presence",凋零光環

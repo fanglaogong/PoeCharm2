@@ -302,7 +302,7 @@
 " Essence",精華
 " Dew",露水
 " Ichor",蝕骨
-" Stone",贈禮
+" Stone",石肌
 " Sliver",流銀
 " Splinter",碎片
 " Vessel"," 之器"
@@ -365,7 +365,7 @@
 " Enterprise","  企業"
 " Exploration","  勘探"
 " Journey","  旅行"
-" Expedition","  遠征"
+" Expedition",探險
 " Voyage","  航程"
 " Trek","  跋涉"
 " Campaign","  活動"
@@ -374,7 +374,7 @@
 " Colony","  殖民"
 " Outpost","  前哨"
 " Mandate","  授權"
-" Territory",地盤
+" Territory","  領土"
 " Lands","  土地"
 " Excavation","  挖掘"
 " Tale","  故事"
@@ -431,3 +431,23 @@
 " Crossroads",十字路口
 " Morass",泥沼
 " Sludge",淤泥
+" Course",航向
+" Path",路徑
+" Compass",羅盤
+" Crosscut",橫穿
+" Direction",方向
+" Navigation",導航
+" Route",路線
+" Trajectory",彈道
+" Bearings",方位
+" Intent",意圖
+" Vector",向量
+" Control",控制
+" Charge",能量球
+" Progression",進度
+" Order",秩序
+" Choice",選擇
+" Resolve",決心
+" Determination",堅定
+" Gambit",策略
+" Carving",雕刻的

@@ -78,7 +78,7 @@ Puncture,放血
 Arc,電弧
 Haste,迅捷
 "Purity of Elements",元素淨化
-Vitality,活力
+Vitality,活力輔助
 Discipline,紀律
 Grace,優雅
 Determination,堅定
@@ -86,7 +86,7 @@ Anger,憤怒
 Hatred,憎恨
 Wrath,雷霆
 "Burning Arrow",燃燒箭矢
-Clarity,清晰
+Clarity,清晰輔助
 "Shockwave Totem",震波圖騰
 "Rejuvenation Totem",回春圖騰
 "Icicle Mine",冰雹地雷
@@ -118,10 +118,10 @@ Reave,衝擊波
 "Vaal Impurity of Lightning",瓦爾．不淨之雷
 "Storm Call",風暴呼喚
 Flameblast,烈焰爆破
-Barrage,彈幕輔助
+Barrage,彈幕
 "Ball Lightning",天雷之珠
 "Vortex Mine",漩渦地雷
-Wildfire,地獄火群
+Wildfire,燐火
 "Summon Raging Spirit",召喚憤怒狂靈
 "Flame Surge",怒焰奔騰
 Desecrate,褻瀆
@@ -247,7 +247,7 @@ Smite,雷鳴重擊
 "Rending Steel",鋼之裂化
 "Lancing Steel",鋼之突刺
 "Storm Brand",風暴烙印
-"War Banner",戰爭之旗
+"War Banner",征戰之旗
 "Dread Banner",恐懼之旗
 "Shattering Steel",鋼之碎擊
 "Armageddon Brand",末日烙印
@@ -264,11 +264,11 @@ Steelskin,鋼筋鐵骨
 Dash,幻步
 Bladestorm,旋天劍舞
 "Blood and Sand",血腥沙戮
-Berserk,狂戰
+Berserk,狂戰士
 Perforate,裂地刺穿
 "Chain Hook",奪魂勾索
 Frostblink,霜漣之瞬
-Precision,精準
+Precision,精準輔助
 "Flesh and Stone",血肉骸骨
 Pride,驕傲
 "Cobra Lash",毒蛇鞭笞
@@ -362,7 +362,7 @@ Tornado,龍捲風
 "Additional Accuracy",額外命中輔助
 "Increased Area of Effect",增加範圍輔助
 "Added Lightning Damage",附加閃電傷害輔助
-Inspiration,啟發輔助
+Inspiration,啟發
 "Increased Critical Strikes",增加暴擊率輔助
 "Increased Critical Damage",增加暴擊傷害輔助
 Knockback,擊退輔助
@@ -370,13 +370,13 @@ Knockback,擊退輔助
 "Mana Leech",魔力偷取輔助
 "Added Chaos Damage",附加混沌傷害輔助
 Stun,擊暈輔助
-Pierce,穿透輔助
+Pierce,穿透
 Trap,陷阱輔助
 "Melee Physical Damage",近戰物理傷害輔助
 "Item Quantity",物品數量增幅輔助
 "Item Rarity",物品稀有度增幅輔助
 "Faster Casting",快速施放輔助
-"Concentrated Effect",集中效應輔助
+"Concentrated Effect",集中效應
 "Minion Damage",召喚物傷害輔助
 "Increased Duration",持續時間延長輔助
 "Cold to Fire",寒冰轉烈焰輔助
@@ -384,11 +384,11 @@ Combustion,燃燒輔助
 "Minion Speed",召喚物速度輔助
 "Minion Life",召喚物生命輔助
 "Elemental Damage with Attacks",元素攻擊傷害輔助
-Bloodlust,嗜血輔助
+Bloodlust,嗜血
 "Life Gain on Hit",擊中生命回復輔助
 "Elemental Proliferation",元素擴散輔助
 Arrogance,傲慢輔助
-"Culling Strike",撲殺輔助
+"Culling Strike",撲殺
 "Point Blank",零點射擊輔助
 "Iron Grip",鋼鐵之握輔助
 "Iron Will",鋼鐵意志輔助
@@ -396,54 +396,54 @@ Arrogance,傲慢輔助
 "Spell Totem",法術圖騰輔助
 "Blastchain Mine",連鎖爆破地雷輔助
 "Chance to Flee",機率逃跑輔助
-Blind,致盲輔助
+Blind,致盲
 "Ballista Totem",砲塔圖騰輔助
-"Fire Penetration",火焰穿透輔助
-"Cold Penetration",冰冷穿透輔助
-"Lightning Penetration",閃電穿透輔助
+"Fire Penetration",火焰穿透
+"Cold Penetration",冰冷穿透
+"Lightning Penetration",閃電穿透
 "Elemental Penetration",元素穿透輔助
-Chain,連鎖輔助
+Chain,連鎖
 "Split Projectiles",投射物分裂輔助
-Fork,分裂輔助
+Fork,分岔
 "Return Projectiles",投射物歸返輔助
 Multistrike,多重打擊輔助
-"Spell Echo",施放迴響輔助
+"Spell Echo",法術迴響
 "Melee Splash",近戰傷害擴散輔助
 "Power Charge On Critical",暴擊獲得暴擊球輔助
 "Burning Damage",燃燒傷害輔助
-"Elemental Army",元素軍隊輔助
+"Elemental Army",元素軍隊
 Hextouch,咒術降臨輔助
 "Cast On Critical Strike",暴擊時施放輔助
-"Cast on Melee Kill",近戰擊殺時施放輔助
+"Cast on Melee Kill",近戰擊殺時施放
 "Multiple Traps",多重陷阱輔助
 Empower,賦予輔助
 "Endurance Charge on Melee Stun",近戰擊暈獲得耐力球輔助
 "Slower Projectiles",投射物減速輔助
 "Less Duration",持續時間縮短輔助
-"Cast on Death",死亡時施放輔助
-"Cast when Damage Taken",受傷時施放輔助
-"Cast when Stunned",暈眩時施放輔助
+"Cast on Death",死亡時施放
+"Cast when Damage Taken",受傷時施放
+"Cast when Stunned",暈眩時施放
 Enhance,增幅輔助
 "Vicious Projectiles",猛毒投射物輔助
 Enlighten,啟蒙輔助
 "Block Chance Reduction",減少格擋率輔助
 Generosity,和善輔助
 "Physical to Lightning",物理轉閃電輔助
-Blasphemy,詛咒光環輔助
+Blasphemy,瀆神
 Fortify,護體輔助
-"Ice Bite",霜咬輔助
-Hypothermia,急凍輔助
-Innervate,亢奮輔助
+"Ice Bite",霜咬
+Hypothermia,急凍
+Innervate,亢奮
 "Trap and Mine Damage",陷阱及地雷傷害輔助
 "Critical Strike Affliction",暴擊苦痛輔助
 "Void Manipulation",虛空操縱輔助
-"Controlled Destruction",精準破壞輔助
-"Swift Affliction",極速苦痛輔助
+"Controlled Destruction",精準破壞
+"Swift Affliction",極速苦痛
 "Cluster Traps",散彈陷阱輔助
-"Elemental Focus",元素集中輔助
+"Elemental Focus",元素專注
 Minefield,地雷網輔助
 "Advanced Traps",進階陷阱輔助
-"Cast while Channelling",引導時施放輔助
+"Cast while Channelling",引導時施放
 "Vaal Soul Harvesting",瓦爾．靈魂收割
 "Ignite Proliferation",點燃擴散輔助
 "Chance to Bleed",機率流血輔助
@@ -453,36 +453,36 @@ Minefield,地雷網輔助
 Decay,腐化輔助
 Efficacy,效能輔助
 "Vile Toxins",罪惡毒素輔助
-Maim,癱瘓輔助
-Immolate,犧牲輔助
+Maim,癱瘓
+Immolate,犧牲
 "Unbound Ailments",無邊異能輔助
-Brutality,殘虐輔助
-Ruthless,殘暴輔助
+Brutality,野性殘暴
+Ruthless,無情
 Onslaught,猛攻輔助
-"Arcane Surge",秘能波動輔助
+"Arcane Surge",秘能波動
 "Infused Channelling",注入引導輔助
 Volley,齊射輔助
-"Spell Cascade",秘能爆發輔助
+"Spell Cascade",秘能爆發
 "Ancestral Call",先祖怒嚎輔助
 "Summon Phantasm",召喚幻影輔助
 "Mirage Archer",幻影射手輔助
 "Charged Traps",陷阱充能輔助
 "Charged Mines",地雷充能輔助
-"Withering Touch",凋零之觸輔助
+"Withering Touch",凋零之觸
 Bonechill,寒冰刺骨輔助
 "Multiple Totems",多重圖騰輔助
 "Energy Leech",能量偷取輔助
 Intensify,強化輔助
-Unleash,釋放輔助
-"Close Combat",近身戰輔助
+Unleash,釋放
+"Close Combat",近身戰
 Shockwave,震波輔助
-Impale,穿刺輔助
+Impale,穿刺
 Pulverise,磨鍊輔助
-Rage,盛怒輔助
-"Feeding Frenzy",豢養狂熱輔助
+Rage,盛怒
+"Feeding Frenzy",豢養狂熱
 Predator,掠奪者輔助
 Nightblade,夜刃輔助
-"Meat Shield",肉盾輔助
+"Meat Shield",肉盾
 "High-Impact Mine",高能地雷輔助
 "Swift Assembly",迅速組裝輔助
 "Arrow Nova",箭矢新星輔助
@@ -524,27 +524,27 @@ Nightblade,夜刃輔助
 "Awakened Empower",覺醒．賦予輔助
 "Awakened Enlighten",覺醒．啟蒙輔助
 "Awakened Enhance",覺醒．增幅輔助
-"Infernal Legion",煉獄軍團輔助
-Archmage,魔幻輔助
-"Second Wind",恢復輔助
-"Fist of War",拳霸輔助
+"Infernal Legion",煉獄軍團
+Archmage,大法師
+"Second Wind",恢復
+"Fist of War",拳霸
 Swiftbrand,迅速烙印輔助
 "Urgent Orders",緊急詔令輔助
-"Impending Doom",末日厄運輔助
+"Impending Doom",末日厄運
 Pinpoint,精確輔助
 Trinity,三體輔助
 Bloodthirst,渴血輔助
 Cruelty,殘酷輔助
-Lifetap,活栓輔助
+Lifetap,活栓
 Earthbreaker,地破輔助
 "Focused Ballista",專注砲塔輔助
-Behead,斬首輔助
+Behead,斬首
 "Divine Blessing",神聖祝福輔助
 "Mark On Hit",擊中時印記輔助
 "Eternal Blessing",永恆祝福輔助
-Overcharge,超負荷輔助
-"Cursed Ground",詛咒地面輔助
-"Hex Bloom",咒術綻放輔助
+Overcharge,強化聚能
+"Cursed Ground",詛咒地面
+"Hex Bloom",咒術綻放
 "Vaal Arctic Armour",瓦爾．極地裝甲
 "Vaal Reap",瓦爾．收割
 "Vaal Animate Weapon",瓦爾．幻化武器
@@ -555,7 +555,7 @@ Overcharge,超負荷輔助
 "Vaal Firestorm",瓦爾．烈炎風暴
 "Vaal Rejuvenation Totem",瓦爾．回春圖騰
 "Vaal Split Arrow",瓦爾．分裂箭矢
-Momentum,氣勢輔助
+Momentum,氣勢
 "Manaforged Arrows",魔改箭矢輔助
 "Prismatic Burst",三相爆發輔助
 "Playtest Attack",測試攻擊
@@ -568,9 +568,9 @@ Spellblade,魔刃輔助
 Devour,吞噬輔助
 "Fresh Meat",鮮肉輔助
 Flamewood,焚木輔助
-"Corrupting Cry",汙染戰吼輔助
+"Corrupting Cry",汙染戰吼
 "Guardian's Blessing",守護者的祝福輔助
-Sacrifice,獻祭輔助
+Sacrifice,獻祭
 "Frigid Bond",冰寒之繫輔助
 "Locus Mine",定位地雷輔助
 Sadism,虐待輔助
@@ -589,4 +589,341 @@ Autoexertion,自動竭盡
 "More Duration",持續時間延長輔助
 Overexertion,竭盡全力輔助
 "Expert Retaliation",專家復仇輔助
-Rupture,殘破輔助
+Rupture,殘破
+"Spectre: {0}",幽魂：{0}
+"Skeletal Warrior",骷髏戰士
+"Skeletal Reaver",骷髏掠奪者
+"Skeletal Brute",骷髏巨獸
+"Skeletal Sniper",骷髏狙擊手
+"Skeletal Frost Mage",骷髏霜寒法師
+"Skeletal Storm Mage",骷髏風暴法師
+"Skeletal Arsonist",骷髏縱火者
+"Skeletal Cleric",骷髏牧師
+"Armour Breaker",護甲碎擊
+"Falling Thunder",崩雷鳴
+"Rapid Assault",極速進攻
+"Whirling Slash",迴旋斬
+Spearfield,長鋒之錐
+"Storm Spear",風暴長鋒
+"Blazing Lance",熾烈之槍
+"Whirling Assault",迴旋擊
+"Rolling Slam",翻騰重擊
+"Escape Shot",逃脫之矢
+"Supercharged Slam",超載重擊
+"Wind Blast",破風爆裂
+"Wave of Frost",寒冰波
+"Ice Strike",冰擊
+Maul,重錘
+"Chaos Bolt",混沌弩箭
+Firebolt,火彈
+Comet,彗星
+Consecrate,奉獻
+"Ripwire Ballista",撕裂砲塔
+"Mana Tempest",魔力暴風
+"Killing Palm",摧命之掌
+"Shattering Palm",粉碎之掌
+Volcano,火山
+"Summon Wolf",召喚狼
+"Spiral Volley",螺旋之弦
+"Lightning Bolt",雷彈
+Rampage,暴怒
+"Lightning Storm",閃電風暴
+"Furious Slam",狂暴重擊
+"Coming Soon",敬請期待
+"Lingering Illusion",殘留幻象
+"Ghost Dance",鬼魂之舞
+"Bind Spectre",束縛幽魂
+Shroud,幽影
+"Pain Offering",劇痛奉獻
+"Tempest Flurry",暴風亂舞
+"Staggering Palm",撼敵之掌
+"Charged Staff",充能長杖
+"Siphoning Strike",虹吸打擊
+"Tempest Bell",風暴之鐘
+"Frozen Locus",寒冰軌跡
+Bonestorm,骨之風暴
+"Bone Cage",骨牢
+"Detonating Arrow",爆破箭矢
+"Poisonburst Arrow",毒爆箭矢
+"Toxic Growth",毒素植栽
+"Stormcaller Arrow",風暴呼喚箭矢
+"Lightning Rod",雷霆之杖
+"Gas Arrow",毒氣箭矢
+"Solar Orb",日耀球
+"Electrocuting Arrow",電極箭矢
+"Perfect Strike",完美打擊
+"Raise Shield",展開護盾
+"Resonating Shield",共鳴之盾
+"Mana Remnants",魔力痕跡
+"Magma Barrier",熔岩屏障
+"Freezing Shards",冰凍裂片
+"Vine Arrow",藤蔓箭矢
+"Summon Rhoa Mount",召喚恐喙鳥座騎
+Decompose,分解
+"Raging Spirits",怒炎之靈
+"Detonate Minion",引爆召喚物
+"Storm Surge",風暴洶湧
+"Wind Dancer",疾風之舞
+"Profane Ritual",粗陋祭祀
+"Soul Offering",靈魂獻祭
+"Dark Effigy",黑暗雕像
+"Grim Feast",冷酷之宴
+"Scavenged Plating",拾荒者護板
+"Spinning Inferno",旋轉獄火
+"Mana Drain",魔力吸取
+"Bone Blast",骨之爆破
+Blink,閃現
+"Molten Blast",熔火爆破
+Malice,絕滅恨惡
+"Hammer of the Gods",眾神之錘
+"Living Bomb",鮮活炸彈
+Stampede,踐踏
+"Shield Wall",盾牆
+"Shielding Cry",防護戰吼
+"Ember Fusillade",餘燼齊射
+"High Velocity Rounds",高速彈藥
+"Fragmentation Rounds",分裂彈藥
+"Siege Cascade",圍城爆發
+"Armour Piercing Rounds",穿甲彈藥
+"Explosive Shot",爆炸矢
+"Incendiary Shot",烈焰矢
+"Rapid Shot",疾射
+"Glacial Bolt",冰川弩箭
+"Permafrost Bolts",永凍弩箭
+"Hailstorm Rounds",冰雹彈藥
+"Ice Shards",寒冰碎片
+"Plasma Blast",電漿強擊矢
+"Galvanic Shards",電能碎片
+"Stormblast Bolts",雷暴彈藥
+"Shockburst Rounds",震爆彈藥
+Punch,正拳
+"Quarterstaff Strike",細杖打擊
+"Flail Strike",鏈錘打擊
+"Sword Slash",劍刃斬
+"Axe Slash",斧鉞斬
+"Mace Strike",錘之打擊
+"Claw Stab",利爪刺擊
+"Dagger Stab",匕首刺擊
+"Spear Stab",長鋒刺擊
+"Bow Shot",弓箭射擊
+"Crossbow Shot",十字弓射擊
+"Shockchain Arrow",電鍊箭矢
+"Vaulting Impact",跳躍衝擊
+"Storm Wave",風暴浪湧
+"Mantra of Destruction",毀滅神咒
+"Life Remnants",生命痕跡
+"Fulminating Concoction",烈性混合物
+"Shattering Concoction",粉碎混合物
+"Bleeding Concoction",流血混合物
+Meditate,冥想
+"Elemental Storm",元素風暴
+"Unbound Avatar",無縛化身
+"Summon Infernal Hound",召喚獄炎獵犬
+"Time Freeze",時間凍結
+"Time Snap",時間短縮
+"Encase in Jade",包覆於翠玉中
+"Sorcery Ward",巫術護盾
+"Elemental Expression",元素表現
+"Freezing Mark",冰凍印記
+"Voltaic Mark",電流印記
+"Demon Form",惡魔變身
+"Time of Need",緊急時刻
+"Explosive Grenade",爆炸擲彈
+"Flash Grenade",閃光擲彈
+"Oil Grenade",燃油擲彈
+"Gas Grenade",毒氣擲彈
+"Voltaic Grenade",電流擲彈
+Attrition,損耗
+"Elemental Conflux",元素匯流
+"Into the Breach",遁入裂痕
+"Ancestral Spirits",先祖之魂
+"Emergency Reload",緊急裝填
+"Cluster Grenade",集束擲彈
+"Charge Infusion",充能灌注
+"Shard Scavenger",碎片清除者
+"Overwhelming Presence",壓倒性的存在
+"Alchemist's Boon",煉金師恩惠
+"Magnetic Salvo",電磁齊射
+"Freezing Salvo",凍結齊射
+"Herald of Plague",瘟疫之捷
+"Withering Presence",凋零光環
+"Combat Frenzy",戰鬥狂怒
+"Gathering Storm",風暴凝聚
+"Greater Lightning Bolt",雷彈
+Enervation,削弱
+"Chance to Freeze",冰凍機率
+"Essence Harvest",精髓收割
+Invocation,祈願
+"Spreading Frost",擴散寒冰
+"Pinpoint Critical",精確暴擊
+Ignition,點火
+Unbreakable,堅不可破
+Bludgeon,連續重擊
+Overpower,壓倒性力量
+Persistence,堅持不懈
+"Fast Forward",快速前進
+Execute,處刑
+"Searing Flame",燒灼烈焰
+"Jagged Ground",鋸齒地面
+"Exploit Weakness",攻其之弱
+"Impact Shockwave",衝擊震波
+"Fire Exposure",火焰曝曬
+"Enraged Warcry",激怒戰吼
+Devastate,蹂躪
+"Heavy Swing",沉重揮擊
+"Life Thief",生命盜竊
+"Break Endurance",打破忍耐
+"Eternal Flame",永恆烈焰
+"Fire Infusion",火焰灌注
+Premeditation,預謀
+"Raging Cry",憤怒戰吼
+Demolisher,爆破手
+Rageforged,盛怒鍛造
+"Armour Explosion",護甲爆破
+"Stomping Ground",重踏地面
+"Deep Cuts",深度切割
+Splinter,碎骨
+"Dazing Cry",目眩戰吼
+"Primal Armament",原始武裝
+Herbalism,藥草學輔助
+Cannibalism,食人輔助
+Aftershock,餘震
+Conduction,傳導
+Scattershot,散射
+"Wind Wave",疾風之波
+Envenom,毒化
+Acceleration,渦輪
+Deceleration,降速
+Electrocute,電刑
+Overabundance,過剩
+Mobility,機動性
+"Perpetual Charge",永恆充能
+Pin,標記
+"Lightning Exposure",閃電曝曬
+"Neural Overload",神經超載
+"Bursting Plague",爆裂瘟疫
+"Deadly Herald",致命先驅
+Corrosion,衰敗
+Infusion,注入
+Lockdown,封鎖
+"Mana Bounty",魔力恩惠
+"Life Bounty",生命恩惠
+"Lasting Shock",持續感電
+"Lightning Infusion",閃電灌注
+"Life Drain",生命吸取
+"Soul Drain",靈魂吸取
+"Martial Tempo",武術節奏
+Bullseye,正中紅心
+Profusion,滿盈
+Comorbidity,併發症
+"Murderous Intent",殺人意圖
+Crescendo,逐漸增強
+"Deadly Poison",致命毒藥
+"Window of Opportunity",機會之窗
+Fusillade,聚靈之杖
+"Combo Finisher",連擊終結輔助
+Encumbrance,負擔輔助
+Longshot,遠程射擊
+Discombobulate,迷惑
+"Break Posture",破壞姿態
+Ingenuity,獨創
+Glaciation,急凍化
+"Energy Barrier",能量屏障
+"Frost Nexus",冰霜核心
+"Coursing Current",奔竄電流
+"Magnified Effect",增幅效果
+"Biting Frost",刺骨冰霜
+Hourglass,沙漏
+Fortress,堡壘
+"Cold Exposure",冰冷曝曬
+"Fiery Death",火熱死寂
+"Frozen Vortex",凍結漩渦
+"Shock Siphon",電擊虹吸
+Frostfire,霜火
+Stormfire,烈風暴
+"Inevitable Critical",必定暴擊
+"Elemental Discharge",元素解放
+"Mana Flare",魔力閃焰
+"Soul Thief",靈魂盜竊
+"Minion Instability",復仇之靈
+"Deep Freeze",深度冰凍
+"Heightened Curse",增強詛咒
+"Corpse Conservation",屍體保存
+"Cold Infusion",冰冷灌注
+"Arcane Tempo",秘能節奏
+"Decaying Hex",腐朽咒術
+"Focused Curse",專注詛咒
+"Ritualistic Curse",儀式詛咒
+"Minion Pact",召喚物契約
+"Last Gasp",臨終恐息
+Supercritical,超暴擊
+"Chaos Infusion",混沌灌注
+"Fire Mastery",火焰專精
+"Cold Mastery",冰冷專精
+"Lightning Mastery",閃電專精
+"Chaos Mastery",混沌專精
+"Physical Mastery",物理專精
+"Minion Mastery",召喚物專精
+"Chaotic Freeze",混沌冰凍
+"Intense Agony",劇烈苦痛
+"Drain Ailments",汲取異常狀態
+Hinder,阻礙
+Soulbreaker,破魂者
+"Font of Blood",鮮血器皿
+"Font of Mana",魔力器皿
+"Font of Rage",盛怒器皿
+"Holy Descent",神聖血統
+"Burning Inscription",爆燃銘文
+"Double Barrel",雙管
+"Auto Reload",自動裝填
+"Ammo Conservation",彈藥保存
+"Nimble Reload",靈活裝填
+"Fresh Clip",全新彈夾
+"Sacrificial Lamb",獻祭羔羊
+Upheaval,動亂
+Despoiler,掠奪者
+Ricochet,彈射
+"Ancestral Urgency",先祖執著
+"Long Fuse",長引線
+Payload,承載
+"Strip Away",剝奪
+Ironwood,鐵木
+"Considered Casting",細思施法
+Wildshards,野性碎片
+Icicle,冰柱
+Glacier,冰河
+Heft,分量
+"Rising Tempest",崛起風暴
+Extraction,提取
+"Astral Projection",星空投影
+"Practiced Combo",熟練連擊
+Leverage,槓桿
+Culmination,頂點
+Potential,潛力
+Expanse,廣闊區域
+Excise,切除
+Execrate,咒怨
+"Energy Retention",能量保留
+Ferocity,狂暴
+Ablation,消融
+"Danse Macabre",骷髏之舞
+Capacitor,電容
+Impetus,動力
+"Expanding Ground",擴大地面
+"Demon Magus",惡魔瑪格思
+"Ferocious Roar",兇猛怒吼
+"Cast on Shock",感電時施放
+"Cast on Freeze",冰凍時施放
+"Cast on Ignite",點燃時施放
+"Cast on Critical",暴擊時施放
+"Barrier Invocation",屏障祈願
+"Cast on Dodge",閃避時施放
+"Cast on Melee Stun",近戰擊暈時施放
+"Summon Companion",召喚盟友
+"Ancestral Warrior Totem",先祖戰士圖騰
+"Cast on Minion Death",召喚物死亡時施放
+"Hydra Familiar",九頭蛇近親
+"Hand of Chayula",夏烏拉之手
+"Elemental Invocation",元素祈願
+"Reaper's Invocation",收割者的祈願
+"Cast on Block",格擋時施放

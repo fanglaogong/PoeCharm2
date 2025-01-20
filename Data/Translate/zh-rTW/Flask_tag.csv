@@ -12,7 +12,7 @@ Prudent,謹慎的
 Prepared,準備的
 Wary,警惕的
 Careful,小心的
-Cautious,小心的
+Cautious,謹慎的
 Startled,嚇一跳的
 Frightened,受驚的
 Alarmed,驚慌的
@@ -21,7 +21,7 @@ Panicked,恐慌的
 Simmering,煨煨的
 Ebullient,奔放的
 Effusive,熱情洋溢的
-Effervescent,泡騰的
+Effervescent,奔放的
 Bubbling,起泡的
 Seething,沸騰的
 Aged,老年的
@@ -41,7 +41,7 @@ Sapping,削弱的
 Wide,寬的
 Plentiful,豐產的
 Bountiful,慷慨的
-Abundant,豐收的
+Abundant,富裕的
 Ample,充足的
 Constant,持續的
 Continuous,連續的
@@ -102,7 +102,7 @@ Practitioner's,從業者的
 Brewer's,啤酒的
 Chemist's,化學家的
 Investigator's,調查者的
-Analyst's,分析師的
+Analyst's,分析師之
 Examiner's,考官的
 Clinician's,臨床醫生的
 Experimenter's,實驗家的
@@ -234,3 +234,63 @@ Enduring,耐久的
 "of the Lizard",蜥蜴之
 "of the Skink",靈蜥之
 "of the Iguana",鬣蜥之
+"of the Constant",持續之
+"of the Continuous",連續的
+"of the Endless",無盡的
+"of the Bottomless",無底的
+"of the Perpetual",永久的
+"of the Eternal",永恆之
+"of the Wide",寬的
+"of the Copious",豐產的
+"of the Plentiful",充足的
+"of the Bountiful",富裕的
+"of the Abundant",富裕之
+"of the Ample",慷慨之
+"of the Apprentice",學徒的
+"of the Practitioner",從業者的
+"of the Mixologist",調酒師的
+"of the Distiller",釀酒師的
+"of the Brewer",釀酒師的
+"of the Chemist",化學家之
+"of the Medic",醫者之
+"of the Doctor",醫師之
+"of the Surgeon",外科醫師之
+"of the Foliage",枝葉之
+"of the Verdant",自然之
+"of the Sylvan",森林之
+Dense,稠密
+Hearty,爽朗
+Compact,緊湊
+Potent,功效的
+Sustained,經久的
+Tenacious,頑強的
+Persistent,執著的
+Persevering,不懈的
+Prolonged,延長
+Novice's,初學者的
+Acolyte's,侍僧之
+Summoner's,召喚者的
+Conjurer's,魔法師的
+Necromancer's,死靈師的
+Herbal,草藥的
+Floral,花草的
+Blooming,綻放的
+Sprouting,萌發的
+Petaled,花瓣的
+Botanic,植物的
+Natural,天然的
+Evergreen,常綠
+Drizzling,細雨的
+Soaked,浸泡的
+Mistbound,霧縛的
+Tidebound,潮縛的
+Aqueous,流水的
+Flooded,淹沒的
+Oceanic,海洋的
+Raindancer's,雨舞者的
+Sunny,晴天的
+Dawnlit,晨光的
+Bright,明亮
+Vibrant,生動的
+Lustrous,燦爛的
+Sunburst,散陽的

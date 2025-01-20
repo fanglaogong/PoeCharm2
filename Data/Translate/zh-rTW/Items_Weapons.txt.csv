@@ -673,9 +673,323 @@ Widowhail,鰥寡之托
 "Maata's Teaching",瑪塔的教導
 "Rakiata's Dance",萊基亞塔的舞步
 "Ethereal Bow",以太之弓
-"The Burden of Shadows",沉重陰影
+"The Burden of Shadows",暗影重擔
 Nametaker,奪名
 "Grace of the Goddess",女神恩典
 "Serle's Masterwork",瑟雷的傑作
 "The Living Blade",生者之刃
 "Tawhoa's Felling",塔赫亞的殞落
+"Crude Claw",簡陋爪
+"Pict Claw",皮克特爪
+"Wolfbone Claw",狼骨爪
+"Forked Claw",叉狀爪
+"Plated Claw",華麗爪
+"Edged Claw",鋒利爪
+"Arced Claw",弧形爪
+"Hooked Claw",鉤爪
+"Razorglass Claw",剃刀玻璃爪
+"Armoured Claw",裝甲爪
+"Piercing Claw",穿刺爪
+"Talon Claw",猛禽爪
+"Crone Knife",巫婆小刀
+"Simple Dagger",簡易匕首
+"Moon Dagger",月之匕首
+"Engraved Knife",紋刻小刀
+"Obsidian Dagger",黑曜石匕首
+"Bloodletting Dagger",出血匕首
+"Mail Breaker",鎖甲破壞者
+"Kris Knife",波刃刀
+"Parrying Dagger",格擋匕首
+"Arcane Dirk",奧術短刀
+Cinquedea,五指短劍
+"Withered Wand",凋零法杖
+"Bone Wand",骸骨法杖
+"Attuned Wand",調和法杖
+"Siphoning Wand",虹吸法杖
+"Volatile Wand",失衡法杖
+"Galvanic Wand",電能法杖
+"Acrid Wand",刺鼻法杖
+"Offering Wand",奉獻法杖
+"Frigid Wand",冰冷法杖
+"Torture Wand",暴虐法杖
+"Critical Wand",致命法杖
+"Primordial Wand",原始法杖
+"Dueling Wand",單挑法杖
+Shortsword,短劍
+Broadsword,闊劍
+"Vampiric Blade",嗜血之刃
+Scimitar,彎刀
+"Charred Shortsword",焦黑短劍
+"Sickle Sword",鐮劍
+Falchion,彎刃劍
+"Treasured Blade",貴重刀刃
+"Runic Shortsword",符文短劍
+Messer,單手刀
+"Commander Sword",指揮官劍
+"Dark Blade",黑暗之刃
+"Dull Hatchet",鈍斧
+"Hook Axe",鉤斧
+"Bearded Axe",鉤刺斧
+"Extended Cleaver",加長砍斧
+"Bandit Hatchet",強盜斧
+"Crescent Axe",新月斧
+"Carving Hatchet",雕刻斧
+"Sacrificial Axe",獻祭斧
+"Boarding Hatchet",登船斧
+"Fury Cleaver",狂怒砍斧
+"Battle Axe",戰斧
+"Profane Cleaver",粗劣砍斧
+"Dread Hatchet",驚懼符文
+"Wooden Club",木製棍棒
+"Smithing Hammer",鍛造錘
+"Slim Mace",纖細之錘
+Warpick,戰鎬
+"Plated Mace",華麗之錘
+"Brigand Mace",強盜之錘
+"Construct Hammer",建造錘
+"Jade Club",玉製棍棒
+"Lumen Mace",流明之錘
+"Execratus Hammer",詛咒之錘
+"Torment Club",磨難棍棒
+"Advanced Smithing Hammer",進階鍛造錘
+"Advanced Slim Mace",進階纖細之錘
+"Advanced Warpick",進階戰鎬
+"Advanced Plated Mace",進階華麗之錘
+"Advanced Brigand Mace",進階強盜之錘
+"Advanced Construct Hammer",進階建造錘
+"Expert Slim Mace",專家纖細之錘
+"Expert Plated Mace",專家華麗之錘
+"Expert Smithing Hammer",專家鍛造錘
+"Expert Warpick",專家戰鎬
+"Expert Construct Hammer",專家建造錘
+"Expert Brigand Mace",專家強盜之錘
+Shortbow,短弓
+"Warden Bow",守護者之弓
+"Dualstring Bow",雙弦弓
+"Cultist Bow",教徒之弓
+"Zealot Bow",狂熱者之弓
+"Artillery Bow",砲火弓
+"Tribal Bow",部落弓
+Greatbow,巨弓
+"Double Limb Bow",雙肢弓
+"Heavy Bow",重弓
+"Advanced Shortbow",進階短弓
+"Advanced Warden Bow",進階守護者之弓
+"Advanced Composite Bow",進階合成弓
+"Advanced Dualstring Bow",進階雙弦弓
+"Advanced Cultist Bow",進階教徒之弓
+"Advanced Zealot Bow",進階狂熱者之弓
+"Expert Shortbow",專家短弓
+"Expert Composite Bow",專家合成弓
+"Expert Warden Bow",專家守護者之弓
+"Expert Dualstring Bow",專家雙弦弓
+"Expert Cultist Bow",專家教徒之弓
+"Expert Zealot Bow",專家狂熱者之弓
+"Ashen Staff",灰燼長杖
+"Gelid Staff",極寒長杖
+"Voltaic Staff",電流長杖
+"Spriggan Staff",狡詐長杖
+"Pyrophyte Staff",炎植長杖
+"Chiming Staff",鳴響長杖
+"Rending Staff",撕裂長杖
+"Reaping Staff",死神長杖
+"Icicle Staff",冰錐長杖
+"Roaring Staff",咆哮長杖
+"Paralysing Staff",麻木長杖
+"Cleric Staff",牧師長杖
+"Dark Staff",黑暗長杖
+"Corroded Longsword",腐蝕長劍
+"Iron Greatsword",鍛鐵巨劍
+"Blessed Claymore",祝福大劍
+"Broad Greatsword",闊刃巨劍
+"Rippled Greatsword",波紋巨劍
+"Arced Longsword",弧形長劍
+"Stone Greatsword",岩石巨劍
+"Obsidian Greatsword",黑曜石巨劍
+"Keen Greatsword",鋒利巨劍
+"Ancient Greatblade",遠古巨刃
+"Flanged Greatblade",凸緣巨刃
+"Regalia Longsword",王權長劍
+"Ultra Greatsword",終極巨劍
+"Splitting Greataxe",分裂巨斧
+"Light Halberd",輕巧斧槍
+"Executioner Greataxe",處刑者巨斧
+"Arched Greataxe",拱形巨斧
+"Elegant Glaive",優雅長柄刀
+"Savage Greataxe",野蠻巨斧
+"Rending Halberd",撕扯斧槍
+"Jagged Greataxe",鋸齒巨斧
+"Reaver Glaive",收割者長柄刀
+"Ember Greataxe",餘燼巨斧
+"Ceremonial Halberd",儀式斧槍
+"Monument Greataxe",豐碑巨斧
+"Vile Greataxe",邪惡巨斧
+"Felled Greatclub",墮落巨棍棒
+"Oak Greathammer",橡木巨錘
+"Forge Maul",鍛造重錘
+"Studded Greatclub",鑲釘巨棍棒
+"Cultist Greathammer",教徒巨錘
+"Temple Maul",神殿重錘
+"Leaden Greathammer",麻木巨錘
+"Crumbling Maul",崩毀重錘
+"Pointed Maul",尖銳重錘
+"Totemic Greatclub",圖騰巨棍棒
+Greatmace,巨釘錘
+"Precise Greathammer",精準巨錘
+"Giant Maul",巨型重錘
+"Advanced Oak Greathammer",進階橡木巨錘
+"Advanced Forge Maul",進階鍛造重錘
+"Advanced Cultist Greathammer",進階教徒巨錘
+"Advanced Temple Maul",進階神殿重錘
+"Advanced Leaden Greathammer",進階麻木巨錘
+"Advanced Crumbling Maul",進階崩毀重錘
+"Expert Forge Maul",專家鍛造重錘
+"Expert Temple Maul",專家神殿重錘
+"Expert Oak Greathammer",專家橡木巨錘
+"Expert Cultist Greathammer",專家教徒巨錘
+"Expert Crumbling Maul",專家崩毀重錘
+"Expert Leaden Greathammer",專家麻木巨錘
+"Rattling Sceptre",雜響權杖
+"Stoic Sceptre",魔道權杖
+"Lupine Sceptre",兇殘權杖
+"Omen Sceptre",徵兆權杖
+"Shrine Sceptre",神殿權杖
+"Devouring Sceptre",吞噬權杖
+"Clasped Sceptre",握扣權杖
+"Devotional Sceptre",虔誠權杖
+"Wrath Sceptre",暴怒權杖
+"Aromatic Sceptre",芳香權杖
+"Pious Sceptre",虔誠權杖
+"Hallowed Sceptre",聖潔權杖
+"Wrapped Quarterstaff",纏繞細杖
+"Long Quarterstaff",加長細杖
+"Gothic Quarterstaff",歌德細杖
+"Crackling Quarterstaff",裂紋細杖
+"Crescent Quarterstaff",新月細杖
+"Steelpoint Quarterstaff",鋼尖細杖
+"Slicing Quarterstaff",斬割細杖
+"Barrier Quarterstaff",屏障細杖
+"Hefty Quarterstaff",堅固細杖
+"Smooth Quarterstaff",平滑細杖
+"Anima Quarterstaff",靈魂細杖
+"Graceful Quarterstaff",優雅細杖
+"Wyrm Quarterstaff",蠕蟲細杖
+"Advanced Long Quarterstaff",進階加長細杖
+"Advanced Gothic Quarterstaff",進階歌德細杖
+"Advanced Crackling Quarterstaff",進階裂紋細杖
+"Advanced Crescent Quarterstaff",進階新月細杖
+"Advanced Slicing Quarterstaff",進階斬割細杖
+"Advanced Barrier Quarterstaff",進階屏障細杖
+"Expert Gothic Quarterstaff",專家歌德細杖
+"Expert Crescent Quarterstaff",專家新月細杖
+"Expert Long Quarterstaff",專家加長細杖
+"Expert Crackling Quarterstaff",專家裂紋細杖
+"Expert Barrier Quarterstaff",專家屏障細杖
+"Expert Slicing Quarterstaff",專家斬割細杖
+"Hardwood Spear",硬木長鋒
+"Ironhead Spear",鐵木長鋒
+"Hunting Spear",狩獵長鋒
+"Winged Spear",羽翅長鋒
+"War Spear",戰爭長鋒
+"Forked Spear",叉狀長鋒
+"Barbed Spear",鉤刺長鋒
+"Broad Spear",闊刃長鋒
+"Crossblade Spear",十字刃長鋒
+"Seaglass Spear",海玻璃長鋒
+"Sword Spear",劍刃長鋒
+"Striking Spear",突擊長鋒
+"Helix Spear",螺旋長鋒
+"Makeshift Crossbow",臨時十字弓
+"Tense Crossbow",緊繃十字弓
+"Sturdy Crossbow",堅固十字弓
+"Varnished Crossbow",亮漆十字弓
+"Dyad Crossbow",雙生十字弓
+"Alloy Crossbow",合金十字弓
+"Bombard Crossbow",轟擊十字弓
+"Construct Crossbow",絕命十字弓
+"Blackfire Crossbow",黑火十字弓
+"Piercing Crossbow",穿刺十字弓
+"Cumbrous Crossbow",笨重十字弓
+"Dedalian Crossbow",精巧十字弓
+"Esoteric Crossbow",秘傳十字弓
+"Advanced Tense Crossbow",進階緊緻十字弓
+"Advanced Sturdy Crossbow",進階堅固十字弓
+"Advanced Varnished Crossbow",進階亮漆十字弓
+"Advanced Dyad Crossbow",進階成對十字弓
+"Advanced Bombard Crossbow",進階轟炸十字弓
+"Advanced Forlorn Crossbow",進階絕命十字弓
+"Expert Sturdy Crossbow",專家堅固十字弓
+"Expert Varnished Crossbow",專家亮漆十字弓
+"Expert Tense Crossbow",專家緊緻十字弓
+"Expert Dyad Crossbow",專家成對十字弓
+"Expert Bombard Crossbow",專家轟炸十字弓
+"Expert Forlorn Crossbow",專家絕命十字弓
+"Splintered Flail",分裂鏈錘
+"Chain Flail",鎖鏈鏈錘
+"Holy Flail",神聖鏈錘
+"Iron Flail",鋼鐵鏈錘
+"Twin Flail",雙生鏈錘
+"Slender Flail",纖細鏈錘
+"Stone Flail",岩石鏈錘
+"Ring Flail",圓環鏈錘
+"Guarded Flail",警惕鏈錘
+"Icicle Flail",冰錐鏈錘
+"Tearing Flail",撕裂鏈錘
+"Great Flail",大型鏈錘
+"Abyssal Flail",深淵鏈錘
+"Clay Trap",黏土陷阱
+"Clamping Trap",猛夾陷阱
+"Shrapnel Trap",彈片陷阱
+"Urn Trap",甕陷阱
+"Incense Trap",香爐陷阱
+"Bladed Trap",刀刃陷阱
+"Dart Trap",飛鏢陷阱
+"Spike Trap",尖刺陷阱
+"Coiled Trap",纏繞陷阱
+"Lead Trap",誘導陷阱
+"Medallion Trap",獎章陷阱
+"Intricate Trap",複雜陷阱
+"Refined Trap",精製陷阱
+"Daevata's Wind",德瓦塔之風
+"The Endless Night",無盡之夜
+"Winter's Bite",寒冬嚙蝕
+"Wylund's Stake",威倫德的木樁
+Hoghunt,獵豬
+"Dusk Vigil",暗暮守夜
+"Sanguine Diviner",血色聖者
+"Enezun's Charge",艾尼尊的衝鋒
+"Falling Snow",落雪
+Ironbound,鐵縛者
+Splinterheart,裂心
+"Dealer's Hand",商人之手
+"Mist Whisper",迷霧低語者
+"Rampart Raptor",壁壘猛禽
+Olrovasara,歐洛瓦沙拉
+"Brynhand's Mark",布林漢的印記
+"Pulpit Pulper",講壇絞碎機
+Trenchtimbre,壕溝之音
+"Sculpted Suffering",雕刻苦難
+"Seeing Stars",見證群星
+Goldshaper,塑金者
+Bluetongue,藍舌
+"The Sentry",哨兵
+Matsya,摩蹉
+"Nazir's Judgement",納齊爾的審判
+"Rhea's Rhythm",蕾亞的旋律
+"Font of Power",力量水晶塔
+Heartseeker,刺心者
+Earthbound,地縛者
+Grimgrasp,陰鬱之握
+Trephina,崔非那
+"The Empty Roar",空洞怒吼
+Shyaba,沙阿巴
+"The Wicked Quill",邪惡羽毛
+"Rod of Enervation",衰弱之杖
+"The Dark Defiler",黑暗玷汙者
+"Collapsing Horizon",崩塌的地平線
+"Sacred Flame",神聖烈焰
+"Guiding Palm",引導之掌
+Skysliver,天銀
+INCOMPLETE,未完成
+"Splinter of Loratta",蘿拉塔裂片
+"Solar Lance",日耀長槍

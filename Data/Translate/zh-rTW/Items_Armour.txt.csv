@@ -79,7 +79,7 @@
 "Darksteel Treads",暗鋼鐵靴
 "Brimstone Treads",硫磺鐵靴
 "Kaom's Greaves",岡姆脛甲
-"Rawhide Boots",生皮短靴
+"Rawhide Boots",生皮長靴
 "Goathide Boots",羊皮短靴
 "Deerskin Boots",鹿皮短靴
 "Nubuck Boots",砂影短靴
@@ -702,7 +702,7 @@ Stormseeker,風暴千尋
 "Utula's Hunger",烏圖拉的飢餓
 "Akoya's Gaze",艾古亞的凝視
 "The Trickster's Smile",戲法師的微笑
-Pragmatism,實用主義
+Pragmatism,務實主義
 "Replica Covenant",贗品．血誓
 Gamblesprint,豪賭
 "Replica Heatshiver",贗品．寒焰
@@ -782,3 +782,496 @@ Gamblesprint,豪賭
 "Torturer's Mask",刑求面具
 "Admiral's Arrogance",將軍的傲慢
 "Kaom's Command",岡姆的命令
+"Stocky Mitts",結實長手套
+"Riveted Mitts",鉚接長手套
+"Tempered Mitts",淬鍊長手套
+"Bolstered Mitts",加固長手套
+"Moulded Mitts",鑄模長手套
+"Detailed Mitts",精細長手套
+"Titan Mitts",泰坦長手套
+"Grand Mitts",宏偉長手套
+"Suede Bracers",麂皮護腕
+"Firm Bracers",穩固護腕
+"Bound Bracers",緊縛護腕
+"Sectioned Bracers",分段護腕
+"Spined Bracers",棘刺護腕
+"Fine Bracers",精良護腕
+"Hardened Bracers",硬化護腕
+"Engraved Bracers",紋刻護腕
+"Torn Gloves",撕裂手套
+"Sombre Gloves",暗淡手套
+"Stitched Gloves",縫合手套
+"Jewelled Gloves",寶石手套
+"Intricate Gloves",精妙手套
+"Pauascale Gloves",海靈鱗手套
+"Adorned Gloves",奢華手套
+"Ringmail Gauntlets",環鎖護手
+"Layered Gauntlets",層板護手
+"Doubled Gauntlets",雙層護手
+"Plate Gauntlets",鎧甲護手
+"Burnished Gauntlets",拋光護手
+"Ornate Gauntlets",華麗護手
+"Rope Cuffs",繩索腕帶
+"Aged Cuffs",陳舊腕帶
+"Goldcast Cuffs",金鑄腕帶
+"Diviner Cuffs",聖者腕帶
+"Righteous Cuffs",正義腕帶
+"Signet Cuffs",徽印腕帶
+"Gauze Wraps",紗布裹手
+"Linen Wraps",麻布裹手
+"Spiral Wraps",盤繞裹手
+"Buckled Wraps",帶扣裹手
+"Furtive Wraps",隱秘裹手
+"Utility Wraps",實用裹手
+"Grand Manchettes",宏偉手鐲
+"Advanced Riveted Mitts",進階鉚接長手套
+"Advanced Tempered Mitts",進階淬鍊長手套
+"Advanced Bolstered Mitts",進階加固長手套
+"Advanced Moulded Mitts",進階鑄模長手套
+"Advanced Firm Bracers",進階穩固護腕
+"Advanced Bound Bracers",進階緊縛護腕
+"Advanced Sectioned Bracers",進階分段護腕
+"Advanced Spined Bracers",進階棘刺護腕
+"Advanced Sombre Gloves",進階暗淡手套
+"Advanced Stitched Gloves",進階縫合手套
+"Advanced Jewelled Gloves",進階寶石手套
+"Advanced Intricate Gloves",進階精妙手套
+"Advanced Ringmail Gauntlets",進階環鎖護手
+"Advanced Layered Gauntlets",進階層板護手
+"Advanced Doubled Gauntlets",進階雙層護手
+"Advanced Rope Cuffs",進階繩索腕帶
+"Advanced Aged Cuffs",進階陳舊腕帶
+"Advanced Goldcast Cuffs",進階金鑄腕帶
+"Advanced Gauze Wraps",進階紗布裹手
+"Advanced Linen Wraps",進階麻布裹手
+"Advanced Spiral Wraps",進階盤繞裹手
+"Expert Riveted Mitts",專家鉚接長手套
+"Expert Bolstered Mitts",專家加固長手套
+"Expert Moulded Mitts",專家鑄模長手套
+"Expert Firm Bracers",專家穩固護腕
+"Expert Sectioned Bracers",專家分段護腕
+"Expert Spined Bracers",專家棘刺護腕
+"Expert Sombre Gloves",專家暗淡手套
+"Expert Jewelled Gloves",專家寶石手套
+"Expert Intricate Gloves",專家精妙手套
+"Expert Ringmail Gauntlets",專家環鎖護手
+"Expert Layered Gauntlets",專家層板護手
+"Expert Doubled Gauntlets",專家雙層護手
+"Expert Rope Cuffs",專家繩索腕帶
+"Expert Aged Cuffs",專家陳舊腕帶
+"Expert Goldcast Cuffs",專家金鑄腕帶
+"Expert Gauze Wraps",專家紗布裹手
+"Expert Linen Wraps",專家麻布裹手
+"Expert Spiral Wraps",專家盤繞裹手
+"Rough Greaves",粗糙脛甲
+"Bronze Greaves",青銅脛甲
+"Trimmed Greaves",鑲邊脛甲
+"Stone Greaves",岩石脛甲
+"Reefsteel Greaves",礁鋼脛甲
+"Monument Greaves",豐碑脛甲
+"Totemic Greaves",圖騰脛甲
+"Laced Boots",飾帶長靴
+"Embossed Boots",浮雕長靴
+"Steeltoe Boots",鐵趾長靴
+"Lizardscale Boots",蜥蜴鱗長靴
+"Flared Boots",閃耀長靴
+"Leatherplate Boots",皮甲長靴
+"Embroidered Boots",刺繡長靴
+"Straw Sandals",乾草便鞋
+"Wrapped Sandals",裹腳便鞋
+"Lattice Sandals",格子便鞋
+"Feathered Sandals",羽毛便鞋
+"Flax Sandals",亞麻便鞋
+"Studded Sandals",鑲釘便鞋
+"Elaborate Sandals",精美便鞋
+"Mail Sabatons",鎖甲鎧靴
+"Braced Sabatons",加固鎧靴
+"Stacked Sabatons",疊層鎧靴
+"Covered Sabatons",遮蓋鎧靴
+"Flexile Sabatons",易曲鎧靴
+"Bold Sabatons",醒目鎧靴
+"Padded Leggings",襯墊護腿
+"Secured Leggings",牢固護腿
+"Pelt Leggings",堅皮護腿
+"Weaver Leggings",編織者護腿
+"Gilt Leggings",鍍金護腿
+"Pious Leggings",虔誠護腿
+"Frayed Shoes",磨損輕鞋
+"Threaded Shoes",縫紉輕鞋
+"Hunting Shoes",狩獵輕鞋
+"Steelpoint Shoes",鋼尖輕鞋
+"Velour Shoes",絲絨輕鞋
+"Bladed Shoes",片狀輕鞋
+"Grand Cuisses",宏偉腿甲
+"Advanced Iron Greaves",進階鐵鍛脛甲
+"Advanced Bronze Greaves",進階青銅脛甲
+"Advanced Trimmed Greaves",進階鑲邊脛甲
+"Advanced Stone Greaves",進階岩石脛甲
+"Advanced Laced Boots",進階飾帶長靴
+"Advanced Embossed Boots",進階浮雕長靴
+"Advanced Steeltoe Boots",進階鐵趾長靴
+"Advanced Lizardscale Boots",進階蜥蜴鱗長靴
+"Advanced Wrapped Sandals",進階裹腳便鞋
+"Advanced Lattice Sandals",進階格子便鞋
+"Advanced Silk Slippers",進階絲綢便鞋
+"Advanced Feathered Sandals",進階羽毛便鞋
+"Advanced Mail Sabatons",進階鎖甲鎧靴
+"Advanced Braced Sabatons",進階加固鎧靴
+"Advanced Stacked Sabatons",進階疊層鎧靴
+"Advanced Padded Leggings",進階襯墊護腿
+"Advanced Secured Leggings",進階牢固護腿
+"Advanced Pelt Leggings",進階堅皮護腿
+"Advanced Frayed Shoes",進階磨損輕鞋
+"Advanced Threaded Shoes",進階縫紉輕鞋
+"Advanced Hunting Shoes",進階狩獵輕鞋
+"Expert Iron Greaves",專家鐵鍛脛甲
+"Expert Trimmed Greaves",專家鑲邊脛甲
+"Expert Stone Greaves",專家岩石脛甲
+"Expert Laced Boots",專家飾帶長靴
+"Expert Steeltoe Boots",專家鐵趾長靴
+"Expert Lizardscale Boots",專家蜥蜴鱗長靴
+"Expert Wrapped Sandals",專家裹腳便鞋
+"Expert Silk Slippers",專家絲綢便鞋
+"Expert Feathered Sandals",專家羽毛便鞋
+"Expert Mail Sabatons",專家鎖甲鎧靴
+"Expert Braced Sabatons",專家加固鎧靴
+"Expert Stacked Sabatons",專家疊層鎧靴
+"Expert Padded Leggings",專家襯墊護腿
+"Expert Secured Leggings",專家牢固護腿
+"Expert Pelt Leggings",專家堅皮護腿
+"Expert Frayed Shoes",專家磨損輕鞋
+"Expert Threaded Shoes",專家縫紉輕鞋
+"Expert Hunting Shoes",專家狩獵輕鞋
+"Rusted Cuirass",生鏽胸甲
+"Fur Plate",毛皮鎧甲
+"Iron Cuirass",鍛鐵胸甲
+"Raider Plate",俠客鎧甲
+"Maraketh Cuirass",馬拉克斯胸甲
+"Steel Plate",堅鋼鎧甲
+"Vaal Cuirass",瓦爾胸甲
+"Juggernaut Plate",勇士鎧甲
+"Chieftain Cuirass",酋長胸甲
+"Champion Cuirass",冠軍胸甲
+"Conqueror Plate",征服者鎧甲
+"Abyssal Cuirass",深淵胸甲
+"Leather Vest",皮革背心
+"Quilted Vest",襯墊背心
+"Pathfinder Coat",追獵者外套
+"Shrouded Vest",籠罩背心
+"Rhoahide Coat",恐喙鳥皮外套
+"Studded Vest",鑲釘背心
+"Scout's Vest",斥侯背心
+"Serpentscale Coat",蛇鱗外套
+"Corsair Vest",海盜背心
+"Smuggler Coat",走私者外套
+"Strider Vest",疾行者背心
+"Hardleather Coat",硬皮外套
+"Exquisite Vest",精美背心
+"Mail Coat",鎖甲外套
+"Armoured Vest",裝甲背心
+"Tattered Robe",殘破長袍
+"Feathered Robe",羽毛長袍
+"Hexer's Robe",咒術師長袍
+"Bone Raiment",骸骨之衣
+"Keth Raiment",凱斯之衣
+"Votive Raiment",還願之衣
+"Altar Robe",祭壇長袍
+"Elementalist Robe",元素使長袍
+"Mystic Raiment",神秘之衣
+"Imperial Robe",帝國長袍
+"Plated Raiment",鎧甲之衣
+"Havoc Raiment",禍害之衣
+"Enlightened Robe",啟蒙長袍
+"Arcane Robe",奧術長袍
+"Chain Mail",鎖鍊鎖甲
+"Rogue Armour",盜賊護甲
+"Vagabond Armour",流浪者護甲
+"Cloaked Mail",斗篷鎖甲
+"Explorer Armour",探索者護甲
+"Scale Mail",鱗片鎖甲
+"Knight Armour",騎士護甲
+"Ancestral Mail",先祖鎖甲
+"Lamellar Mail",分層鎖甲
+"Gladiator Armour",衛士護甲
+"Heroic Armour",英雄護甲
+"Tournament Mail",競技鎖甲
+"Slayer Armour",處刑者護甲
+"Pilgrim Vestments",朝聖者法衣
+"Pelt Mantle",堅皮披肩
+"Mail Vestments",鎖甲法衣
+"Shaman Mantle",薩滿披肩
+"Ironclad Vestments",鐵甲法衣
+"Sacrificial Mantle",獻祭披肩
+"Cleric Vestments",教士法衣
+"Tideseer Mantle",潮汐先知披肩
+"Gilded Vestments",鍍金法衣
+"Venerated Mantle",崇敬披肩
+"Revered Vestments",尊敬法衣
+"Corvus Mantle",烏鴉披肩
+"Zenith Vestments",極盛法衣
+"Hermit Garb",隱士裝束
+"Waxed Jacket",打蠟外衣
+"Marabout Garb",修士裝束
+"Wayfarer Jacket",旅人外衣
+"Anchorite Garb",隱者裝束
+"Scalper's Jacket",投機者外衣
+"Scoundrel Jacket",流氓外衣
+"Ascetic Garb",苦行者裝束
+"Clandestine Jacket",隱蔽外衣
+"Monastic Garb",僧侶裝束
+"Torment Jacket",苦難外衣
+"Devout Garb",虔誠裝束
+"Assassin Garb",刺客裝束
+Garment,服裝
+"Grand Regalia",宏偉華服
+"Advanced Fur Plate",進階毛皮鎧甲
+"Advanced Iron Cuirass",進階鍛鐵胸甲
+"Advanced Maraketh Cuirass",進階馬拉克斯胸甲
+"Advanced Steel Plate",進階堅鋼鎧甲
+"Advanced Full Plate",進階連身鎧甲
+"Advanced Vaal Cuirass",進階瓦爾胸甲
+"Advanced Quilted Vest",進階襯墊背心
+"Advanced Pathfinder Coat",進階追獵者外套
+"Advanced Rhoahide Coat",進階恐喙鳥皮外套
+"Advanced Studded Vest",進階鑲釘背心
+"Advanced Scout's Vest",進階斥侯背心
+"Advanced Serpentscale Coat",進階蛇鱗外套
+"Advanced Feathered Robe",進階羽毛長袍
+"Advanced Hexer's Robe",進階咒術師長袍
+"Advanced Silk Robe",進階絲質之袍
+"Advanced Keth Raiment",進階凱斯之衣
+"Advanced Votive Raiment",進階還願之衣
+"Advanced Altar Robe",進階祭壇長袍
+"Advanced Chain Mail",進階鎖鍊鎖甲
+"Advanced Rogue Armour",進階盜賊護甲
+"Advanced Vagabond Armour",進階流浪者護甲
+"Advanced Cloaked Mail",進階斗篷鎖甲
+"Advanced Explorer Armour",進階探索者護甲
+"Advanced Scale Mail",進階鱗片鎖甲
+"Advanced Pilgrim Vestments",進階朝聖者法衣
+"Advanced Pelt Mantle",進階堅皮披肩
+"Advanced Mail Vestments",進階鎖甲法衣
+"Advanced Shaman Mantle",進階薩滿披肩
+"Advanced Ironclad Vestments",進階鐵甲法衣
+"Advanced Sacrificial Mantle",進階獻祭披肩
+"Advanced Hermit Garb",進階隱士裝束
+"Advanced Waxed Jacket",進階打蠟外衣
+"Advanced Marabout Garb",進階修士裝束
+"Advanced Wayfarer Jacket",進階旅人外衣
+"Advanced Anchorite Garb",進階隱者裝束
+"Advanced Scalper's Jacket",進階投機者外衣
+"Expert Iron Cuirass",專家鍛鐵胸甲
+"Expert Steel Plate",專家堅鋼鎧甲
+"Expert Vaal Cuirass",專家瓦爾胸甲
+"Expert Pathfinder Coat",專家追獵者外套
+"Expert Studded Vest",專家鑲釘背心
+"Expert Serpentscale Coat",專家蛇鱗外套
+"Expert Hexer's Robe",專家咒術師長袍
+"Expert Keth Raiment",專家凱斯之衣
+"Expert Altar Robe",專家祭壇長袍
+"Expert Rogue Armour",專家盜賊護甲
+"Expert Cloaked Mail",專家斗篷鎖甲
+"Expert Scale Mail",專家鱗片鎖甲
+"Expert Pelt Mantle",專家堅皮披肩
+"Expert Shaman Mantle",專家薩滿披肩
+"Expert Sacrificial Mantle",專家獻祭披肩
+"Expert Waxed Jacket",專家打蠟外衣
+"Expert Wayfarer Jacket",專家旅人外衣
+"Expert Scalper's Jacket",專家投機者外衣
+"Rusted Greathelm",鏽蝕巨盔
+"Soldier Greathelm",士兵巨盔
+"Wrapped Greathelm",纏繞巨盔
+"Spired Greathelm",尖頂巨盔
+"Elite Greathelm",菁英巨盔
+"Warrior Greathelm",戰士巨盔
+"Commander Greathelm",指揮官巨盔
+"Fierce Greathelm",兇猛巨盔
+"Dueling Greathelm",決鬥巨盔
+"Goliath Greathelm",巨靈巨盔
+"Guardian Greathelm",守護者巨盔
+"Shabby Hood",破舊兜帽
+"Felt Cap",毛氈便帽
+"Lace Hood",綁帶兜帽
+"Swathed Cap",裹頭便帽
+"Viper Cap",毒蛇便帽
+"Corsair Cap",海盜便帽
+"Leatherbound Hood",皮革兜帽
+"Velvet Cap",天鵝絨便帽
+"Covert Hood",隱蔽兜帽
+"Armoured Cap",裝甲便帽
+"Twig Circlet",嫩枝頭環
+"Wicker Tiara",枝條頭冠
+"Beaded Circlet",串珠頭環
+"Chain Tiara",鎖鍊頭冠
+"Feathered Tiara",羽毛頭冠
+"Gold Circlet",黃金頭環
+"Coral Circlet",珊瑚頭環
+"Jade Tiara",翠玉頭冠
+"Noble Circlet",貴族頭環
+"Twilight Tiara",暮光頭冠
+"Magus Tiara",瑪格思頭冠
+"Brimmed Helm",邊緣之盔
+"Guarded Helm",警惕之盔
+"Visored Helm",假面之盔
+"Cowled Helm",斗篷之盔
+"Shielded Helm",庇護之盔
+"Closed Helm",緊閉之盔
+"Decorated Helm",裝飾之盔
+"Gallant Helm",無畏之盔
+"Iron Crown",鍛鐵之冠
+"Horned Crown",犄角之冠
+"Cultist Crown",教徒之冠
+"Martyr Crown",殉難之冠
+"Heavy Crown",沉重之冠
+"Spiritbone Crown",魂骨之冠
+"Lavish Crown",奢華之冠
+"Templar Crown",聖宗之冠
+"Hewn Mask",粗製之面
+"Face Mask",護臉之面
+"Hooded Mask",風帽之面
+"Veiled Mask",隱匿之面
+"Tribal Mask",部落之面
+"Solid Mask",堅固之面
+"Shaded Mask",陰影之面
+"Death Mask",死亡之面
+"Grand Visage",宏偉面紗
+"Advanced Rusted Greathelm",進階鏽蝕巨盔
+"Advanced Soldier Greathelm",進階士兵巨盔
+"Advanced Wrapped Greathelm",進階纏繞巨盔
+"Advanced Spired Greathelm",進階尖頂巨盔
+"Advanced Elite Greathelm",進階菁英巨盔
+"Advanced Shabby Hood",進階破舊兜帽
+"Advanced Felt Cap",進階毛氈便帽
+"Advanced Lace Hood",進階綁帶兜帽
+"Advanced Swathed Cap",進階裹頭便帽
+"Advanced Hunter Hood",進階獵者之兜
+"Advanced Twig Circlet",進階嫩枝頭環
+"Advanced Wicker Tiara",進階枝條頭冠
+"Advanced Beaded Circlet",進階串珠頭環
+"Advanced Chain Tiara",進階鎖鍊頭冠
+"Advanced Feathered Tiara",進階羽毛頭冠
+"Advanced Brimmed Helm",進階邊緣之盔
+"Advanced Guarded Helm",進階警惕之盔
+"Advanced Visored Helm",進階假面之盔
+"Advanced Cowled Helm",進階斗篷之盔
+"Advanced Shielded Helm",進階庇護之盔
+"Advanced Iron Crown",進階鍛鐵之冠
+"Advanced Horned Crown",進階犄角之冠
+"Advanced Cultist Crown",進階教徒之冠
+"Advanced Martyr Crown",進階殉難之冠
+"Advanced Heavy Crown",進階沉重之冠
+"Advanced Hewn Mask",進階粗製之面
+"Advanced Face Mask",進階護臉之面
+"Advanced Hooded Mask",進階風帽之面
+"Advanced Veiled Mask",進階隱匿之面
+"Advanced Tribal Mask",進階部落之面
+"Expert Soldier Greathelm",專家士兵巨盔
+"Expert Spired Greathelm",專家尖頂巨盔
+"Expert Elite Greathelm",專家菁英巨盔
+"Expert Felt Cap",專家毛氈便帽
+"Expert Swathed Cap",專家裹頭便帽
+"Expert Hunter Hood",專家獵者之兜
+"Expert Wicker Tiara",專家枝條頭冠
+"Expert Chain Tiara",專家鎖鍊頭冠
+"Expert Feathered Tiara",專家羽毛頭冠
+"Expert Guarded Helm",專家警惕之盔
+"Expert Cowled Helm",專家斗篷之盔
+"Expert Shielded Helm",專家庇護之盔
+"Expert Horned Crown",專家犄角之冠
+"Expert Martyr Crown",專家殉難之冠
+"Expert Heavy Crown",專家沉重之冠
+"Expert Face Mask",專家護臉之面
+"Expert Veiled Mask",專家隱匿之面
+"Expert Tribal Mask",專家部落之面
+Bristleboar,鬃豬
+Innsmouth,印斯茅斯
+"The Black Doubt",黑色之疑
+"The Knight-errant",漂泊騎士
+"Erian's Cobble",埃里安的鵝卵石
+"Kitoko's Current",奇多可之流
+Corpsewade,屍骨之靴
+"Sands of Silk",絲綢之沙
+"Apron of Emiran",埃米蘭之裙
+Treefingers,樹木之指
+"Couture of Crimson",緋紅訂製服
+Gloomform,幽暗之衣
+"The Barrow Dweller",遺塚居民
+"Radiant Grief",聖光哀痛
+"Enfolding Dawn",晨曦之擁
+Dustbloom,塵土之花
+"Quatl's Molt",夸特之帶
+"The Dancing Mirage",舞動幻影
+"Redflare Conduit",紅焰導體
+"Zerphi's Serape",澤菲披肩
+"The Velvet Orchestra",天鵝絨交響樂團
+Necromantle,亡者披肩
+"Prayers for Rain",祈雨禱言
+"Tetzlapokal's Desire",特沙波卡爾之慾
+Blackbraid,黑辮
+"Edyrn's Tusks",埃狄恩的曲牙
+"Titanrot Cataphract",泰坦腐化重騎兵
+"Coat of Red",腥紅外衣
+Irongrasp,鐵握
+"Pariah's Embrace",草民之擁
+"Widow's Reign",寡婦統治
+"Husk of Dreams",夢境軀殼
+Waveshaper,浪湧塑形器
+Briarpatch,薔薇眼罩
+"Sibling Rivalry",手足相爭
+Powertread,動力圖樣
+Legionstride,帝國之靴
+Trampletoe,踐踏之鞋
+"Birth of Fury",憤怒的誕生
+"Obern's Bastion",歐伯恩的壁壘
+Shankgonne,香克戈涅
+Timberwolf,灰狼之靈
+"Keeper of the Arc",電弧守護者
+Northpaw,北方之爪
+"Grip of Winter",凜冬之握
+"Idle Hands",遊手好閒
+Plaguefinger,瘟疫之指
+Killjoy,掃興之人
+"Painter's Servant",畫家的侍從
+Candlemaker,製燭者
+Nightscale,夜鱗
+Dreadfist,驚懼之拳
+Jarngreipr,雅恩格利佩爾
+Deathblow,致命一擊
+"Aerisvane's Wings",艾瑞斯凡恩之翼
+"Constricting Command",限制之令
+"Visage of Ayah",艾雅面紗
+"Forbidden Gaze",禁忌凝視
+"Atziri's Disdain",阿茲里的蔑視
+"Wings of Caelyn",凱林之翼
+"Corona of the Red Sun",紅日之冕
+"Gravis Grimace",面癱鬼臉
+Greymake,灰製
+"The Smiling Knight",微笑騎士
+"The Vile Knight",惡劣騎士
+"Crown of the Victor",勝者之冠
+Bronzebeard,銅鬚
+Cornathaum,科那索姆
+"The Deepest Tower",深邃尖塔
+"Solus Ipse",唯我論
+"Sine Aequo",無與倫比
+"Ab Aeterno",源於永恆
+"Blessed Bonds",祝福之絆
+"The Mutable Star",多變之星
+Bushwhack,突襲
+"Horns of Bynden",賓登之角
+"Luminous Pace",閃爍步伐
+"The Hollow Mask",聖潔面具
+"Wandering Reliquary",流浪寶庫
+"Hand of Wisdom and Action",智行之手
+"Atsak's Sight",阿札克之瞳
+Thunderstep,雷霆步伐
+Ironride,鐵騎
+"The Immortan",永生者
+Bitterbloom,苦心花
+"Sierran Inheritance",錫耶拉的遺產
+"Myris Uxor",米立斯之妻
+"Mask of the Sanguimancer",占血之面
+"Blueflame Bracers",藍焰護腕
+"Morior Invictus",不敗亡者
+Temporalis,時空之物
+Beetlebite,甲蟲噬咬
