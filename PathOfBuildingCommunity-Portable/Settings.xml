@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Mode mode="BUILD">
+		<Arg string="F:/1pythonGGGGG/github/PoeCharm2/PathOfBuildingCommunity-Portable/Builds/3.25_Phrecia/自改千力.xml"/>
+		<Arg string="自改千力"/>
+	</Mode>
+	<Accounts/>
+	<SharedItems/>
+	<Misc betaTest="false" connectionProtocol="nil" colorNegative="^xDD0022" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" showPublicBuilds="true" edgeSearchHighlight="true" POESESSID="d754531b3a93bfdd491cc46e5654ac3f" showTitlebarName="true" invertSliderScrollDirection="false" disableDevAutoSave="false" colorHighlight="^xFF0000" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." defaultGemQuality="0" defaultItemAffixQuality="0.5" nodePowerTheme="RED/BLUE"/>
+</PathOfBuilding>
