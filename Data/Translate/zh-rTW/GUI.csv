@@ -262,6 +262,7 @@ add,翻譯
 "+0.5% to Critical Strike Chance per Poison affecting Enemy, up to +2.0%",每層對敵人造成的中毒，+0.5% 暴擊率，至多 +2.0%，
 +0.75% to Critical Strike Chance,+0.75% 暴擊率
 +1 per 10 Omni,+1 每 10 全知
++1 to Level of all Cold Skills,全部冰冷技能寶石等級 +1
 +1 to Maximum Endurance Charges,+1 最大耐力球數量
 +1 to maximum Energy Shield per 6 Evasion Rating on Body Armour,胸甲的每 6 點閃避率 +1 最大能量護盾
 +1 to maximum Fortification,+1 最大護體
@@ -604,6 +605,7 @@ add,翻譯
 +5 Life gained on Kill,擊敗敵人回復 +5 生命
 +5 Mana gained on Kill,+5 擊殺回復魔力
 +5 to Dexterity,+5 敏捷
++5 to any Attribute,增加 5 點任意屬性
 +5 to Dexterity and Intelligence,+5 敏捷和智慧
 +5 to Evasion Rating per 1 Maximum Energy Shield on Helmet,頭盔的每 1 點最大能量護盾 +5 閃避值
 +5 to Intelligence,+5 智慧
@@ -738,6 +740,7 @@ add,翻譯
 10 Energy Explosion,10 層能量爆炸
 10 Stacks,10 層
 10 Stages,10 階
+8% increased Cast Speed if you've dealt a Critical Hit Recently,若你近期造成暴撃，施放速度增加8%
 10% additional Physical Damage Reduction,額外 10% 物理傷害減免
 10% Chance for Traps to Trigger an additional time,陷阱有 10% 機率額外觸發一次
 10% chance to Avoid being Poisoned,有 10% 機率避免中毒
@@ -833,12 +836,16 @@ add,翻譯
 10% increased Cast Speed,增加 10% 施放速度
 10% increased Cast Speed while Dual Wielding,雙持武器時增加 10% 施放速度
 10% increased Cast Speed while wielding a Staff,持長杖時增加 10% 施放速度
+10% increased chance to inflict Ailments,造成巽常狀熊的機率增加10%
 10% increased Chaos Damage,增加 10% 混沌傷害
 10% increased Cold Damage,增加 10% 冰冷傷害
+10% increased Cold Exposure Effect,冰冷曝曬效果增加 10%
 10% increased Cooldown Recovery Rate for throwing Traps,增加 10% 陷阱冷卻回復速度
 10% increased Cooldown Recovery Rate of Movement Skills,增加 10% 位移技能的冷卻時間恢復速度
 10% increased Cooldown Recovery Speed for throwing Traps,陷阱冷卻回復速度增加 10%
 10% increased Cooldown Recovery Speed of Movement Skills,位移技能的的冷卻恢復速度增加 10%
+10% increased Critical Hit Chance,增加 10% 暴擊率
+10% increased Critical Hit Chance for Spells,增加 10% 法術暴擎率
 10% increased Critical Strike Chance,增加 10% 暴擊率
 "10% increased Critical Strike Chance for each Mine Detonated\nRecently, up to 100%",近期每個爆炸的地雷增加 10% 暴擊率，\n至多 100%
 10% increased Critical Strike Chance for Spells,增加 10% 法術暴擊率
@@ -870,6 +877,7 @@ add,翻譯
 10% increased Damage with Swords,劍類攻擊的傷害增加 10%
 10% increased Damage with Wands,法杖攻擊的傷害增加 10%
 10% increased Duration of Elemental Ailments on Enemies,增加 10% 敵人身上元素異常狀態時間
+"10% increased Duration of Ignite, Shock and Chill on Enemies",敵人身上的點燃、感電和冰缓持續時間增加 10%
 10% increased Effect of Arcane Surge on you,增加你身上秘能波動 10% 效果
 10% increased Effect of Arcane Surge on you per,最近你每消耗 200 點魔力
 "10% increased Effect of Arcane Surge on you per\n200 Mana spent Recently, up to 50%",近期每消耗 200 魔力，\n增加你身上秘能波動 10% 效果，至多 50%
@@ -902,6 +910,7 @@ add,翻譯
 10% increased Evasion Rating and Armour,增加 10% 閃避值與護甲
 10% increased Evasion Rating per Frenzy Charge,每個狂怒球增加 10% 閃避值
 10% increased Fire Damage,增加 10% 火焰傷害
+10% increased Fire Exposure Effect,火焰曝曬效果增加 10%
 10% increased Fire Damage with Attack Skills,攻擊技能增加 10% 火焰傷害
 10% increased Flask Charges gained,增加 10% 藥劑充能獲取
 10% increased Flask Effect Duration,增加 10% 藥劑效果持續時間
@@ -913,6 +922,7 @@ add,翻譯
 10% increased Impale Effect,增加 10% 穿刺效果
 10% increased Life Recovery from Flasks,增加 10% 來自藥劑的生命回復
 10% increased Light Radius,增加 10% 照亮範圍
+10% increased Lightning Exposure Effect,閃電曝曬效果增加 10%
 10% increased Lightning Damage,增加 10% 閃電傷害
 10% increased Lightning Damage with Attack Skills,攻擊技能增加 10% 閃電傷害
 10% increased Mana Cost of Skills,增加 10% 技能魔力消耗
@@ -1033,6 +1043,7 @@ add,翻譯
 100% increased Effect of Buffs your Ancestor Totems grant while Active,增加 100% 從你先祖圖騰獲得的增益效果
 100% increased Global Critical Strike Chance if you've Summoned a Totem Recently,若近期內有召喚圖騰，增加 100% 全域暴擊率
 100% increased Impale Duration,增加 100% 穿刺持續時間
+10% increased Magnitude of Ignite you inflict,你所施加之點燃的幅度增加 10%
 100% increased Maximum Recovery per Life Leech,每個生命偷取增加 100% 最大恢復
 100% increased Onslaught Effect,增加 100% 猛攻效果
 100% increased total Recovery per second from Life Leech,增加 100% 生命偷取的每秒總恢復
@@ -1068,6 +1079,8 @@ add,翻譯
 12% increased Brand Activation frequency,烙印的啟動頻率增加 12%
 12% increased Brand Damage,增加 12% 烙印傷害
 12% increased Cast Speed with Brand Skills,增加 12% 烙印技能施放速度
+12% increased chance to Ignite,增加 12% 點燃機率
+12% increased chance to Shock,增加 12% 感電機率
 12% increased Chaos Damage,增加 12% 混沌傷害
 12% increased Cold Damage,增加 12% 冰冷傷害
 12% increased Cold Damage with Attack Skills,攻擊技能增加 12% 冰冷傷害
@@ -1106,6 +1119,7 @@ add,翻譯
 12% increased Evasion Rating and Armour,增加 12% 閃避值與護甲
 12% increased Fire Damage,增加 12% 火焰傷害
 12% increased Fire Damage with Attack Skills,攻擊技能增加 12% 火焰傷害
+12% increased Freeze Buildup,增加 12% 冰凍累積
 12% increased Global Accuracy Rating,增加 12% 全域命中率
 12% increased Global Physical Damage,增加 12% 全域物理傷害
 12% increased Impale Effect,增加 12% 穿刺效果
@@ -1242,12 +1256,16 @@ add,翻譯
 15% increased Brand Critical Strike Chance,增加 15% 烙印暴擊率
 15% increased Cast Speed while Dual Wielding,雙持武器時增加 15% 施放速度
 15% increased Chaining range,增加 15% 連鎖範圍
+15% increased chance to Ignite,增加 15% 點燃機率
+15% increased chance to Shock,增加 15% 感電機率
 15% increased Chaos Damage,增加 15% 混沌傷害
 15% increased Chaos Damage with Attack Skills,攻擊技能增加 15% 混沌傷害
 15% increased Cold Damage,增加 15% 冰冷傷害
 15% increased Cooldown Recovery Rate of Movement Skills,增加 15% 位移技能的冷卻時間恢復速度
 15% increased Cooldown Recovery Speed for throwing Traps,陷阱冷卻回復速度增加 15%
 15% increased Cooldown Recovery Speed of Movement Skills,位移技能的的冷卻恢復速度增加 15%
+15% increased Critical Damage Bonus,增加 15% 暴擊傷害加成
+15% increased Critical Hit Chance for Spells,增加 15% 法術暴撃率
 15% increased Critical Strike Chance,增加 15% 暴擊率
 15% increased Critical Strike Chance against Shocked Enemies,對感電的敵人增加 15% 暴擊率
 15% increased Critical Strike Chance for Spells,增加 15% 法術暴擊率
@@ -1256,8 +1274,10 @@ add,翻譯
 15% increased Critical Strike Chance with Daggers,匕首攻擊的暴擊率增加 15%
 15% increased Critical Strike Chance with Mines,增加 15% 地雷暴擊率
 15% increased Critical Strike Chance with Totem Skills,圖騰技能增加 15% 暴擊率
+15% increased Critical Spell Damage Bonus,暴擎法術傷害加成增加 15%
 15% increased Damage,增加 15% 傷害
 15% increased Damage for each Herald affecting you,每個影響你的捷光環增加 15% 傷害
+15% increased Damage for each type of Elemental Ailment on Enemy,每對敵人施加一種元素異常狀態，傷害增加 15%
 15% increased Damage over Time,增加 15% 持續傷害
 15% increased Damage Over Time with Bow Skills,增加 15% 弓技能持續傷害
 15% increased Damage while in Blood Stance,血腥姿態時增加 15% 傷害
@@ -1292,6 +1312,7 @@ add,翻譯
 15% increased Fire Damage with Attack Skills,攻擊技能增加 15% 火焰傷害
 15% increased Flask Charges gained,增加 15% 藥劑充能獲取
 15% increased Flask Effect Duration,增加 15% 藥劑效果持續時間
+15% increased Freeze Buildup,增加 15% 冰凍累積
 15% increased Frenzy Charge Duration,增加 15% 狂怒球持續時間
 15% increased Global Accuracy Rating,增加 15% 全域命中率
 15% increased Global Critical Strike Chance,增加 15% 全域暴擊率
@@ -1300,6 +1321,7 @@ add,翻譯
 15% increased Life Recovery from Flasks,增加 15% 來自藥劑的生命回復
 15% increased Life Regeneration rate,增加 15% 生命回復率
 15% increased Lightning Damage,增加 15% 閃電傷害
+15% increased Magnitude of Chill you inflict,你所施加之冰緩的幅度增加 15%
 15% increased Mana Recovery from Flasks,增加 15% 來自藥劑的魔力回復
 15% increased Mana Recovery Rate during Effect of any Mana Flask,任何魔力藥劑效果期間，增加 15% 魔力回復率
 15% increased Mana Regeneration Rate,增加 15% 魔力回復速度
@@ -1322,6 +1344,7 @@ add,翻譯
 15% increased Projectile Speed,增加 15% 投射物速度
 15% increased Skill Effect Duration,技能效果持續時間延長 15%
 15% increased Spell Damage,增加 15% 法術傷害
+15% increased Spell Damage if you've dealt a Critical Hit Recently,若你近期造成暴擊，法術傷害增加 15%
 15% increased Spell Damage while holding a Shield,持盾時增加 15% 法術傷害
 15% increased Spell Damage while wielding a Staff,持長杖時增加 15% 法術傷害
 15% increased Stun Threshold,增加 15% 暈眩門檻
@@ -1339,6 +1362,7 @@ add,翻譯
 15% more Damage if you've lost an Endurance Charge in the past 8 seconds,若過去 8 秒你失去 1 顆耐力球，有 15% 更多傷害
 15% more Damage with Hits and Ailments against Enemies that are on Low Life,對貧血的敵人有 15% 更多擊中和異常狀態傷害
 15% of Physical Damage from Hits taken as Fire Damage,擊中的 15% 承受物理傷害視為火焰傷害
+15% of Elemental Damage taken Recouped as Life,承受的元素傷害 15% 補償為生命
 15% reduced Damage taken from Blinded Enemies,減少承受來自致盲敵人的 15% 傷害
 15% reduced Effect of Chill and Shock on you,減少 15% 你身上冰緩和感電的效果
 15% reduced Elemental Ailment Duration on you,減少 15% 身上元素異常狀態時間
@@ -1358,6 +1382,7 @@ add,翻譯
 16% increased Chaos Damage,增加 16% 混沌傷害
 16% increased Cold Damage,增加 16% 冰冷傷害
 16% increased Cold Damage with Attack Skills,攻擊技能增加 16% 冰冷傷害
+16% increased Critical Hit Chance for Spells,增加 16% 法術暴撃率
 16% increased Critical Strike Chance with Bows,使用弓類武器時增加 16% 暴擊率
 16% increased Critical Strike Chance with Maces or Sceptres,錘和權杖增加 16% 暴擊率
 16% increased Damage if you have Consumed a corpse Recently,若你近期有消耗屍體，增加 16% 傷害
@@ -1571,6 +1596,7 @@ add,翻譯
 20% increased Flask Charges gained if you've dealt a Critical Strike Recently,若你近期有造成暴擊，增加 20% 藥劑充能獲得
 20% increased Flask Effect Duration,增加 20% 藥劑效果持續時間
 20% increased Flask Recovery rate,增加 20% 藥劑回復速度
+20% increased Freeze Buildup,增加 20% 冰凍累積
 20% increased Freeze Duration on Enemies,增加 20% 敵人冰凍持續時間
 20% increased Frenzy Charge Duration,增加 20% 狂怒球持續時間
 20% increased Global Accuracy Rating,增加 20% 全域命中率
@@ -1734,6 +1760,7 @@ add,翻譯
 25% increased Brand Critical Strike Chance,增加 25% 烙印暴擊率
 25% increased Chaos Damage,增加 25% 混沌傷害
 25% increased Cold Damage,增加 25% 冰冷傷害
+25% increased Cold Exposure Effect,冰冷曝曬效果增加 25%
 25% increased Critical Strike Chance,增加 25% 暴擊率
 25% increased Critical Strike Chance against Blinded Enemies,對致盲的敵人增加 25% 暴擊率
 25% increased Critical Strike Chance for Spells,增加 25% 法術暴擊率
@@ -1770,14 +1797,18 @@ add,翻譯
 25% increased Elemental Damage with Maces and Sceptres,鎚類和短杖類攻擊的元素傷害增加 25%
 25% increased Elusive Effect,增加 25% 靈巧效果
 25% increased Fire Damage,增加 25% 火焰傷害
+25% increased Fire Exposure Effect,火焰曝曬效果增加 25%
 25% increased Flask Charges gained,增加 25% 藥劑充能獲取
 25% increased Fortify duration,增加 25% 護體效果持續時間
 25% increased Fortify Duration,增加 25% 護體效果持續時間
 25% increased Global Critical Strike Chance,增加 25% 全域暴擊率
 25% increased Global Physical Damage,增加 25% 全域物理傷害
+25% increased Critical Hit Chance,增加 25% 暴擊率
 25% increased Impale Duration,增加 25% 穿刺持續時間
 25% increased Knockback Distance,增加 25% 擊退距離
+25% increased Lightning Exposure Effect,閃電曝曬效果增加 25%
 25% increased Lightning Damage,增加 25% 閃電傷害
+25% increased Magnitude of Shock you inflict,你所施加之感電的幅度增加 25%
 25% increased Mana Recovery from Flasks,增加 25% 藥劑回復魔力
 25% increased Mana Regeneration Rate,增加 25% 魔力回復速度
 25% increased Mana Reservation Efficiency of Skills,增加 25% 技能的魔力保留效用
@@ -1793,6 +1824,7 @@ add,翻譯
 25% increased Physical Damage with Two Handed Melee Weapons,持近戰雙手武器時增加 25% 物理傷害
 25% increased Poison Duration,增加 25% 中毒持續時間
 25% increased Projectile Speed,增加 25% 投射物速度
+25% increased Shock Duration,感電持續時間增加 25%
 25% increased Skill Effect Duration,增加 25% 技能效果持續時間
 25% increased Stun Duration on Enemies,增加 25% 敵人暈眩時間
 25% increased Stun Duration with Two Handed Melee Weapons on Enemies,使用雙手近戰武器時增加 25% 敵人暈眩時間
@@ -1907,9 +1939,13 @@ add,翻譯
 30% increased Brand Attachment range,增加 30% 烙印附著距離
 30% increased Cast Speed if you've Attacked Recently,近期內你若有進行攻擊，則施放速度增加 30%
 30% increased Chaining range,增加 30% 連鎖範圍
+30% increased chance to Ignite,增加 30% 點燃機率
+30% increased chance to inflict Ailments against Rare or Unique Enemies,對稀有或传奇敵人造成異常狀態的機率增加 30%
+30% increased chance to Shock,增加 30% 感電機率
 30% increased Chaos Damage,混沌傷害增加 30%
 30% increased Chaos Damage with Attack Skills,攻擊技能增加 30% 混沌傷害
 30% increased Chill Duration on Enemies,敵人被冰緩的持續時間延長 30%
+30% increased Cold Exposure Effect,冰冷曝曬效果增加30%
 30% increased Cold Damage,增加 30% 冰冷傷害
 30% increased Cold Damage with Attack Skills,攻擊技能增加 30% 冰冷傷害
 30% increased Cooldown Recovery Rate for Stance Skills,增加 30% 姿態技能冷卻時間恢復速度
@@ -1963,17 +1999,21 @@ add,翻譯
 30% increased Evasion Rating,增加 30% 閃避值
 30% increased Evasion Rating during Onslaught,獲得猛攻時增加 30% 閃避值
 30% increased Evasion Rating if you haven't been Hit Recently,若你近期沒有被擊中，增加 30% 閃避值
+30% increased Fire Exposure Effect,火焰曝曬效果增加 30%
 30% increased Fire Damage,增加 30% 火焰傷害
 30% increased Fire Damage with Attack Skills,攻擊技能增加 30% 火焰傷害
 30% increased Flask Effect Duration,增加 30% 藥劑效果持續時間
 30% increased Flask Recovery rate,增加 30% 藥劑回復速度
+30% increased Freeze Buildup,增加 30% 冰凍累積
 30% increased Global Accuracy Rating,命中值增加 30%
 30% increased Global Critical Strike Chance,增加 30% 全域暴擊率
 30% increased Global Critical Strike Chance while wielding a Staff,持長杖時增加 30% 全域暴擊率
 30% increased Global Physical Damage,增加 30% 全域物理傷害
 30% increased Life Recovery from Flasks,增加 30% 來自藥劑的生命回復
+30% increased Lightning Exposure Effect,閃電曝曬效果增加 30%
 30% increased Lightning Damage,增加 30% 閃電傷害
 30% increased Lightning Damage with Attack Skills,攻擊技能增加 30% 閃電傷害
+30% increased Magnitude of Chill you inflict,你所施加之冰緩的幅度增加 30%
 30% increased Mana Recovery from Flasks,增加 30% 來自藥劑的魔力回復
 30% increased Mana Regeneration if you've used a Movement Skill Recently,近期內你若有使用移動技能，增加 30% 魔力回復
 30% increased Mana Regeneration Rate,增加 30% 魔力回復速度
@@ -2129,6 +2169,7 @@ add,翻譯
 40% increased Elusive Effect,增加 40% 靈巧效果
 40% increased Energy Shield from Equipped Shield,增加 40% 從盾牌獲取的能量護盾
 40% increased Evasion Rating while Phasing,迷蹤時增加 40% 閃避值
+40% increased Freeze Buildup,增加 40% 冰凍累積
 40% increased Fire Damage,增加 40% 火焰傷害
 40% increased Global Critical Strike Chance,增加 40% 全域暴擊率
 40% increased Global Critical Strike Chance while wielding a Staff,持長杖時增加 40% 全域暴擊率
@@ -2139,6 +2180,7 @@ add,翻譯
 40% increased Maximum total Energy Shield Recovery per second from Leech,增加 40% 來自偷取每秒最大總能量護盾恢復
 40% increased Melee Critical Strike Chance,增加 40% 近戰暴擊率
 40% increased Mine Duration,增加 40% 地雷持續時間
+40% increased Minion Damage while you have at least two different active Offerings,當你有至少兩個不同的獻祭生效時，召唤物傷害增加 40%
 40% increased Physical Damage,增加 40% 物理傷害
 40% increased Skill Effect Duration,增加 40% 技能效果持續時間
 40% increased Spell Damage while you have Arcane Surge,擁有【秘術增強】時法術傷害增加 40%
@@ -6795,6 +6837,8 @@ Gain 4% of Physical Damage as Extra Fire Damage,獲得 4% 物理傷害的火焰�
 Gain 5% of Physical Damage as Extra Fire Damage,獲得 5% 物理傷害的火焰傷害
 Gain 5% of Physical Damage as Extra Lightning Damage,獲得 5% 物理傷害的閃電傷害
 Gain 5% of Wand Physical Damage as Extra Lightning Damage,獲得等同 5% 法杖物理傷害的額外閃電傷害
+Gain 8% of Damage as Extra Fire Damage,獲得相當於傷害 8% 的额外火焰傷害
+Gain 12% of maximum Energy Shield as additional Stun Threshold,獲得相當於 12% 最大能量護盾的额外暈眩門槛
 Gain 75% increased Area of Effect for 5 seconds,範圍效果擴大 75%，持續 5 秒
 Gain 75% increased Elemental Damage for 5 seconds,元素傷害增加 75%，持續 5 秒
 Gain a Blitz Charge on Critical Strike,暴擊時獲得 1 顆閃電球
@@ -9020,6 +9064,8 @@ Minions summoned by Your Scout Towers inflict Malediction on Hit,你哨兵塔召
 Minions Taunt on Hit with Attacks,攻擊擊中時召喚物造成嘲諷
 Minions' Attacks always Impale Enemies on Hit,召喚物的攻擊擊中時穿刺敵人
 Minions' Attacks cause Bleeding,召喚物的攻擊造成流血
+Minions have 15% increased Critical Damage Bonus,召喚物增加 15% 暴擊傷害加成
+Minions have 40% increased Critical Hit Chance,召唤物的暴撃機率增加 40%
 Minions' Hits can only Kill Ignited Enemies,召喚物擊中只能擊殺點燃敵人
 Minions' Melee Hits Fortify,召喚物的近戰擊中護體
 Minions' Skills Cost Life instead of Mana,召喚物的技能消耗生命而非魔力
@@ -9555,6 +9601,10 @@ Off Hand:,副手:
 Offence/Defence,攻擊/防禦
 "Offensive power shows as red, defensive power as blue.","傷害類顯示為紅色,防禦類顯示為藍色."
 Offer,提供
+Offerings have 15% increased Maximum Life,獻祭增加 15% 最大生命
+Offerings have 30% increased Maximum Life,獻祭增加 30% 最大生命
+Offerings have 30% reduced Maximum Life,獻祭減少 30% 最大生命
+Offering Skills have 20% increased Area of Effect,獻祭技能增加 20% 效果範圍
 Offering Skills Triggered this way also affect you,以此方式觸發的奉獻技能同時影響你
 Offering to the Serpent,蛇皮獻祭
 OH Accuracy:,命中(副手):
@@ -10409,6 +10459,7 @@ Recover 25% of Life and Mana when you use a Warcry,施放戰吼時回復 25% 生
 Recover 25% of Life when you gain Adrenaline,當你獲得腎上腺素時，回復 25% 生命
 Recover 3% of Energy Shield on Kill,擊殺時回復 3% 能量護盾
 Recover 3% of Life on Kill,擊殺時回復 3% 生命
+Recover 3% of Life when you create an Offering,創造獻祭時，恢復3%生命
 Recover 3% of Mana on Kill,擊殺時回復 3% 魔力
 Recover 30 Life when you Block,格擋時回復 30 生命
 Recover 4% of Life when you use a Flask,當你使用藥劑時回復 4% 生命
@@ -13863,6 +13914,7 @@ Your Curse Spells are Cast as Auras,你的詛咒將以光環的形式施放
 Your Curses can apply to Hexproof Enemies,你的詛咒對有【無咒】詞綴的敵人依然有效
 Your Damage with Critical Strikes is Lucky,你暴擊的傷害很幸運
 Your Damaging Hits always Stun Enemies that are on Full Life,擊中滿血的敵人並造成傷害時必造成暈眩
+Your Dexterity is added to your Minions,你的敏捷會加成至你的召唤物身上
 Your Elemental Damage can Shock,你的元素傷害可以造成感電
 Your Elemental Golems are Immune to Elemental Damage,你的元素魔像免疫元素傷害
 "Your enemy will automatically be considered to be Cursed if you have at least one curse enabled,","如果你的詛咒技能至少開啟一個將會自動開啟此狀態,"
