@@ -176,6 +176,13 @@ Ballistics,彈道學
 "Projectile Damage",投射物傷害
 MARAUDER,野蠻人
 WITCH,女巫
+Sorceress,女術者
+Mercenary,傭兵
+Gemling Legionnaire,古靈軍團
+Monk,僧侶
+Invoker,施法者
+Warrior,戰士
+WarBringer,戰爭使者
 RANGER,遊俠
 DUELIST,決鬥者
 TEMPLAR,聖騎士
@@ -1984,7 +1991,7 @@ Savouring,品味
 "Cautious Concoctions",謹慎調製物
 "Critical Chance",暴擊率
 "Crashing Wave",震波
-"Critical Damage",物理傷害
+"Critical Damage",暴擊傷害
 "Damage on Critical",暴擊時傷害
 "Cruel Fate",殘酷命運
 "Leaping Ambush",跳躍伏擊
@@ -2696,3 +2703,5 @@ Darkness,黑暗
 "Quarterstaff Mastery",細杖專精
 "Shapeshifting Mastery",變形專精
 "Spear Mastery",長鋒專精
+"Grants Skill",賦予技能
+Critical,暴擊傷害
