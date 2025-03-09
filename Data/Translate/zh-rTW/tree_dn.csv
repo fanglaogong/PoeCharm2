@@ -1991,7 +1991,7 @@ Savouring,品味
 "Cautious Concoctions",謹慎調製物
 "Critical Chance",暴擊率
 "Crashing Wave",震波
-"Critical Damage",物理傷害
+"Critical Damage",暴擊傷害
 "Damage on Critical",暴擊時傷害
 "Cruel Fate",殘酷命運
 "Leaping Ambush",跳躍伏擊
@@ -2703,3 +2703,5 @@ Darkness,黑暗
 "Quarterstaff Mastery",細杖專精
 "Shapeshifting Mastery",變形專精
 "Spear Mastery",長鋒專精
+"Grants Skill",賦予技能
+Critical,暴擊傷害
