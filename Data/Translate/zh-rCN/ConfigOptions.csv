@@ -446,7 +446,7 @@ Do you have Onslaught?,你有【猛攻】?
 "this will enable the Onslaught buff itself. (Grants 20% increased Attack, Cast, and Movement Speed)","这将启用【猛攻】增益效果. (攻击/施法/移动速度提高 20% )"
 Do you have Arcane Surge?,你有【秘术增强】?
 "In addition to allowing any 'while you have Arcane Surge' modifiers to apply,","启用时 '当你处于【秘术增强】' 之类的修正生效,"
-"this will enable the Arcane Surge buff itself. (Grants 10% increased cast speed and 30% increased Mana Regeneration rate)","这将启用【秘术增强】增益效果. (施法速度提高 10% 、魔力再生率提高 30%)"
+"this will enable the Arcane Surge buff itself. (Grants 20% increased cast speed and 30% increased Mana Regeneration rate)","这将启用【秘术增强】增益效果. (施法速度提高 20% 、魔力再生率提高 30%)"
 Do your minions have Onslaught?,你的召唤物是否有【猛攻】?
 "In addition to allowing any 'while your minions have Onslaught' modifiers to apply,","启用时 '当你的召唤物处于【猛攻】' 之类的修正生效,"
 Do you have Unholy Might?,你有【不洁之力】?
@@ -538,7 +538,7 @@ Are you Burning?,^xFFFFFF你在^xB97123【燃烧】^7?
 Are you Ignited?,^xFFFFFF你被^xB97123【点燃】^7?
 Are you Scorched?,^xFFFFFF你被^xB97123【灼烧】^7?
 Are you Chilled?,^xFFFFFF你被^x3F6DB3【冰缓】^7?
-Did you Chill yourself?,^xFFFFFF你^x3F6DB3【冰缓】^7你自己?
+
 Are you Frozen?,^xFFFFFF你被^x3F6DB3【冰冻】^7?
 Are you Brittle?,^xFFFFFF你被^x3F6DB3【易碎】^7?
 Are you Shocked?,^xFFFFFF你被^xADAA47【感电】^7?
@@ -658,7 +658,10 @@ This also implies that you have used a Skill Recently..,这也意味着你近期
 "You will automatically be considered to have used a Movement skill Recently if your main skill is a movement skill,","如果你的主技能是移动技能将会自动启用此状态,"
 Have you used a Vaal Skill Recently?,你近期有使用瓦尔技能?
 "You will automatically be considered to have used a Vaal skill Recently if your main skill is a Vaal skill,","如果你的主技能是瓦尔技能将会自动启用此状态,"
+# of Vaal Skills used in the past 8 Seconds:,过去8秒内使用了多少瓦尔技能:
 Do you have Soul Gain Prevention?,你有【阻灵术】?
+Sacrifice Minion on Attack,攻击时牺牲召唤物
+Each Attack is sacrificing a damage minion to grant you extra projectiles.,每次攻击牺牲一个可受伤的召唤物以赋予你额外投射物。
 Have you used a Warcry Recently?,你近期有使用战吼?
 Used a Warcry in the past 8 seconds?,过去8秒内有使用战吼?
 # of seconds Affected by a Warcry Buff:,受到战吼增益时长:
@@ -792,6 +795,7 @@ Is your Crit Chance Lucky?,你的暴击率很幸运?
 # of times Skill has Pierced:,技能已穿透数:
 Projectile travel distance:,投射物飞行距离:
 Melee distance to enemy:,与敌人近战距离:
+10 units equals 1 metre,10单位等同于1米
 Is the enemy at Close Range?,敌人是否处于【近距离】?
 Enemy in Your Presence Duration,敌人在你视野内持续时间
 Number of seconds the enemy has been in your presence.,敌人出现在你在你视野内的秒数。
@@ -826,6 +830,8 @@ Corrosion has no stack limit,腐蚀没有层数上限
 "Ensnared enemies always count as moving, and have less movement speed while trying to break the snare.","被诱捕的敌人始终视为在移动，并以总降后的移动速度试图突破圈套。"
 Is the enemy Maimed?,敌人是否【瘫痪】?
 Is the enemy Hindered?,敌人是否被【缓速】?
+Is the enemy Excommunicated?,敌人是否被【被驱逐】?
+Excommunicated Enemies cannot deal Chaos Damage.,^7被【被驱逐】的敌人无法造成^xD02090混沌^7伤害。
 Is the enemy Blinded?,敌人是否被【致盲】?
 "In addition to allowing 'against Blinded Enemies' modifiers to apply,","启用时 '对致盲的敌人' 之类的修正生效,"
  Blind applies the following effects.,【致盲】造成以下效果。
@@ -916,6 +922,7 @@ Is the enemy on Fungal Ground?,敌人是否在【真菌地表】上?
 Enemies on your Fungal Ground have -10% to all Resistances.,你所创造【真菌地表】上的敌人-10%全部抗性。
 Is the enemy in a Chilling area?,^7敌人是否在【冰缓地面】上?
 Is the enemy in the Frost Shield area?,敌人是否在【寒霜护盾】范围内?
+Is the enemy Life% higher than yours?,^7敌人是否^xE05030生命^7百分比高于你?
 Enemy was Hit by Fire Damage?,^xFFFFFF敌人曾被^xB97123火焰^7伤害击中?
 Enemy was Hit by Cold Damage?,^xFFFFFF敌人曾被^x3F6DB3冰霜^7伤害击中?
 Enemy was Hit by Light. Damage?,^xFFFFFF敌人曾被^xADAA47闪电^7伤害击中?
